@@ -25,31 +25,59 @@ def extract_title_from_summary(summary_content: str) -> str:
     # 尝试从总结的第一段提取主题
     lines = summary_content.split('\n')
 
-    for line in lines:
+    for i, line in enumerate(lines):
         line = line.strip()
         # 跳过空行和分隔符
         if not line or line.startswith('---') or line.startswith('==='):
             continue
 
-        # 查找包含关键信息的行
-        if '本文' in line and ('核心' in line or '观点' in line or '主要' in line):
-            # 提取主题
-            match = re.search(r'本文[的]?核心[观点]*[是为：:]+(.+?)(?:[，。,.]|$)', line)
+        # 模式1: "文章的核心观点是：..." 或 "本文的核心观点是..."
+        if ('核心观点' in line or '核心思想' in line) and ('是' in line or '为' in line):
+            # 提取"是"后面的内容作为主题
+            match = re.search(r'(?:核心观点|核心思想)[是为：:\s]+(.+?)(?:[。,.]|$)', line)
             if match:
                 title = match.group(1).strip()
-                # 清理标题
-                title = re.sub(r'[“""]', '', title)
+                # 清理标题，提取关键短语
+                title = re.sub(r'["""'']', '', title)
+                title = re.sub(r'[*#]', '', title)
+                # 如果太长，截取前50个字符
+                if len(title) > 50:
+                    # 尝试在逗号或句号处截断
+                    for sep in ['，', ',', '。', '；']:
+                        pos = title.find(sep)
+                        if 10 <= pos <= 50:
+                            title = title[:pos]
+                            break
+                    else:
+                        title = title[:50]
+                if 10 <= len(title) <= 50:
+                    return title
+
+        # 模式2: "文章指出了..." 或 "文章揭示了..."
+        if line.startswith('文章') and ('指出' in line or '揭示' in line or '分析' in line or '探讨' in line):
+            match = re.search(r'文章[指出揭示分析探讨了]+(.+?)(?:[。,.]|$)', line)
+            if match:
+                title = match.group(1).strip()
+                title = re.sub(r'["""'']', '', title)
                 title = re.sub(r'[*#]', '', title)
                 if 10 <= len(title) <= 50:
                     return title
 
-        # 查找包含"关于"或"介绍"的行
+        # 模式3: "关于"或"介绍"
         if '关于' in line or '介绍' in line:
             match = re.search(r'(?:关于|介绍)[了]?(.+?)(?:的|，|。|$)', line)
             if match:
                 title = match.group(1).strip()
                 if 5 <= len(title) <= 30:
                     return title
+
+        # 模式4: 查找"### 标题"格式
+        if line.startswith('###') and i < 10:
+            title = line.lstrip('#').strip()
+            # 移除括号内的字数说明
+            title = re.sub(r'[（(]\d+字[）)]', '', title).strip()
+            if 3 <= len(title) <= 30:
+                return title
 
     return ""
 
