@@ -4,7 +4,7 @@
 
 **项目名称**: 产品经理知识库 (PM_Knowledge_DB)
 **创建时间**: 2026-05-26
-**当前版本**: v1.0.0
+**当前版本**: v1.1.0
 
 ---
 
@@ -12,6 +12,7 @@
 
 | 版本 | 日期 | 主要变更 |
 |------|------|----------|
+| v1.1.0 | 2026-05-27 | 完善文章命名方法，集成到工作流，添加去重逻辑 |
 | v1.0.0 | 2026-05-26 | 初始版本，完成爬虫+总结+知识库全流程 |
 
 ---
@@ -271,6 +272,87 @@ with open(file, 'w', encoding='utf-8') as f:
 **教训**:
 - Python在Windows上默认使用系统编码（GBK）
 - 处理中文内容必须显式指定 `encoding='utf-8'`
+
+---
+
+## 问题11: 文章标题提取失败
+
+**时间**: 2026-05-27
+**错误现象**: 爬取的文章标题为空，导致文件名变成 `文章_ID.md` 或 `.md`
+
+**原因**:
+1. 网页标题选择器不统一
+2. 部分文章内容为空（爬取失败）
+3. AI总结内容格式不统一
+
+**解决方案 - 多层级标题提取策略**:
+
+```python
+def extract_title(content, raw_data, summary):
+    """多层级标题提取"""
+    title = ""
+
+    # 方法1: 从文件第一行提取（# 标题格式）
+    first_line = content.split('\n')[0].strip()
+    if first_line.startswith('#'):
+        title = first_line.lstrip('#').strip()
+
+    # 方法2: 从原始数据中提取
+    if not title and raw_data:
+        title = raw_data.get('title', '')
+
+    # 方法3: 从AI总结的"核心观点"中提取主题
+    if not title:
+        # 匹配 "核心观点是：xxx" 或 "核心思想是xxx"
+        match = re.search(r'(?:核心观点|核心思想)[是为：:\s]+(.+?)(?:[。,.]|$)', summary)
+        if match:
+            title = match.group(1).strip()[:50]
+
+    # 方法4: 使用分类+ID作为兜底
+    if not title:
+        title = f"{category}_待补充_{article_id}"
+
+    return title
+```
+
+**已集成到工作流**: `workflow.py` 的 `_rename_articles()` 方法会自动在总结完成后重命名文章
+
+---
+
+## 问题12: 文章内容为空
+
+**时间**: 2026-05-27
+**错误现象**: AI总结返回"请提供文章内容"，实际是爬虫未获取到内容
+
+**原因**: woshipm.com的内容容器选择器是 `.article--content`，而非通用的 `.post-content`
+
+**解决方案**: 使用正确的选择器
+```python
+content_elem = soup.select_one('.article--content, .post-content, .article-content')
+```
+
+**修复脚本**: `scripts/fix_empty_articles.py` 可以重新爬取和总结失败的文章
+
+---
+
+## 问题13: 文章去重机制
+
+**时间**: 2026-05-27
+**需求**: 避免重复爬取已存在的文章
+
+**实现方案**:
+1. 使用 `data/index.json` 记录所有已爬取的文章ID
+2. 爬取前检查文章ID是否已存在
+3. workflow.py 的 `_get_existing_article_ids()` 方法加载已有文章
+
+```python
+def is_article_crawled(self, article_id: str) -> bool:
+    return article_id in self.index.get('articles', {})
+```
+
+**去重逻辑已集成到**:
+- `crawler.py`: 爬取时自动跳过已存在的文章
+- `workflow.py`: 运行前加载已有文章ID列表
 
 ---
 
