@@ -1,0 +1,59 @@
+# 产品经理知识库配置文件
+
+# 爬虫配置
+crawler:
+  base_url: "https://www.woshipm.com"
+  categories:
+    - "pd"           # 产品设计
+    - "user-research" # 用户研究
+    - "data-analysis" # 数据分析
+    - "project-management" # 项目管理
+    - "strategy"     # 产品策略
+    - "industry-insights" # 行业洞察
+  max_pages: 5
+  delay_seconds: 2
+  timeout: 30
+  retry_times: 3
+  proxy: null
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+# AI总结配置
+summarizer:
+  provider: "deepseek"  # deepseek / openai / claude
+  api_key: "${DEEPSEEK_API_KEY}"
+  base_url: "${DEEPSEEK_BASE_URL}"
+  model: "deepseek-chat"
+  max_tokens: 1500
+  temperature: 0.3
+  summary_format:
+    - "core_points"     # 核心观点 (200字)
+    - "methodology"     # 方法论/框架 (300字)
+    - "key_cases"       # 关键案例 (200字)
+    - "practical_tips"  # 实践建议 (200字)
+    - "keywords"        # 关键词标签
+
+# Git配置
+git:
+  remote: "origin"
+  branch: "main"
+  auto_push: true
+  commit_message_prefix: "[Knowledge DB]"
+
+# 定时任务配置
+schedule:
+  enabled: true
+  cron: "0 2 * * *"  # 每天凌晨2点执行
+  timezone: "Asia/Shanghai"
+
+# 日志配置
+logging:
+  level: "INFO"
+  file: "logs/crawler.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# 存储配置
+storage:
+  raw_data_retention_days: 30
+  processed_data_retention_days: 90
+  max_articles_per_run: 50

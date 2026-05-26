@@ -1,0 +1,74 @@
+# 文章分类配置
+
+categories:
+  product-design:
+    name: "产品设计"
+    description: "产品设计方法、UI/UX设计、交互设计"
+    url_slug: "pd"
+    keywords:
+      - "产品设计"
+      - "UI设计"
+      - "UX设计"
+      - "交互设计"
+      - "用户体验"
+      - "原型设计"
+
+  user-research:
+    name: "用户研究"
+    description: "用户调研、用户画像、需求分析"
+    url_slug: "user-research"
+    keywords:
+      - "用户研究"
+      - "用户画像"
+      - "需求分析"
+      - "用户访谈"
+      - "问卷调查"
+      - "用户测试"
+
+  data-analysis:
+    name: "数据分析"
+    description: "数据驱动、数据指标、数据可视化"
+    url_slug: "data-analysis"
+    keywords:
+      - "数据分析"
+      - "数据驱动"
+      - "数据指标"
+      - "数据可视化"
+      - "A/B测试"
+      - "漏斗分析"
+
+  project-management:
+    name: "项目管理"
+    description: "敏捷开发、项目管理、团队协作"
+    url_slug: "project-management"
+    keywords:
+      - "项目管理"
+      - "敏捷开发"
+      - "Scrum"
+      - "看板"
+      - "需求管理"
+      - "版本管理"
+
+  strategy:
+    name: "产品策略"
+    description: "产品规划、商业模式、竞争分析"
+    url_slug: "strategy"
+    keywords:
+      - "产品策略"
+      - "商业模式"
+      - "竞争分析"
+      - "产品规划"
+      - "市场分析"
+      - "产品定位"
+
+  industry-insights:
+    name: "行业洞察"
+    description: "行业趋势、案例分析、行业报告"
+    url_slug: "industry-insights"
+    keywords:
+      - "行业洞察"
+      - "行业趋势"
+      - "案例分析"
+      - "行业报告"
+      - "市场趋势"
+      - "技术趋势"
