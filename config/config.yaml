@@ -5,11 +5,10 @@ crawler:
   base_url: "https://www.woshipm.com"
   categories:
     - "pd"           # 产品设计
-    - "user-research" # 用户研究
-    - "data-analysis" # 数据分析
-    - "project-management" # 项目管理
-    - "strategy"     # 产品策略
-    - "industry-insights" # 行业洞察
+    - "it"           # 信息技术
+    - "ai"           # 人工智能
+    - "share"        # 分享
+    - "class"        # 课堂
   max_pages: 5
   delay_seconds: 2
   timeout: 30
@@ -35,7 +34,7 @@ summarizer:
 # Git配置
 git:
   remote: "origin"
-  branch: "main"
+  branch: "master"
   auto_push: true
   commit_message_prefix: "[Knowledge DB]"
 

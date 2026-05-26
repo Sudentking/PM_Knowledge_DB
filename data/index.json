@@ -1,6 +1,476 @@
 {
-  "articles": {},
-  "last_crawl": "2026-05-26T22:49:59.823878",
+  "articles": {
+    "6401939": {
+      "title": "从0到量产：汽车IPD全流程落地实战案例（内含阶段详解）",
+      "url": "https://www.woshipm.com/pd/6401939.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:19.418753",
+      "summarized": false
+    },
+    "6400774": {
+      "title": "一文看懂VLA：自动驾驶的下一个范式",
+      "url": "https://www.woshipm.com/pd/6400774.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:22.557226",
+      "summarized": false
+    },
+    "6396337": {
+      "title": "我以为用户好评是成功，直到我发现它背后藏着一个致命的陷阱…",
+      "url": "https://www.woshipm.com/pd/6396337.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:25.791941",
+      "summarized": false
+    },
+    "6400135": {
+      "title": "「不就是发个货？」——这句话坑过多少电商产品",
+      "url": "https://www.woshipm.com/pd/6400135.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:29.606711",
+      "summarized": false
+    },
+    "6399449": {
+      "title": "建设中医科研数据库和西医科研数据库，到底差别在哪？（一）",
+      "url": "https://www.woshipm.com/pd/6399449.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:32.837793",
+      "summarized": false
+    },
+    "6399289": {
+      "title": "从木鸟、途家、美团首页设计，看流量分发和业务逻辑",
+      "url": "https://www.woshipm.com/pd/6399289.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:36.160574",
+      "summarized": false
+    },
+    "6399166": {
+      "title": "写了五年银行数据之后，我对 AI 产品的看法",
+      "url": "https://www.woshipm.com/pd/6399166.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:40.057293",
+      "summarized": false
+    },
+    "6398208": {
+      "title": "一个人跑完 AI 情绪产品从 0 到 1，我沉淀了一套练手项目复盘方法论",
+      "url": "https://www.woshipm.com/pd/6398208.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:42.365385",
+      "summarized": false
+    },
+    "6398102": {
+      "title": "B端产品AI升级：存量报表和预警功能的智能改造经验",
+      "url": "https://www.woshipm.com/pd/6398102.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:45.661298",
+      "summarized": false
+    },
+    "6397134": {
+      "title": "工作流引擎产品设计",
+      "url": "https://www.woshipm.com/pd/6397134.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:49.688199",
+      "summarized": false
+    },
+    "6397834": {
+      "title": "贴贴有什么套路？柠檬市场视角下的语音社交信任机制解析",
+      "url": "https://www.woshipm.com/pd/6397834.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:53.764869",
+      "summarized": false
+    },
+    "6397881": {
+      "title": "产品经理的“伪需求陷阱”——我踩过的8个坑和避坑方法",
+      "url": "https://www.woshipm.com/pd/6397881.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:56.408058",
+      "summarized": false
+    },
+    "28": {
+      "title": "浅谈白社会交互设计的创新(二)",
+      "url": "https://www.woshipm.com/pd/28.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:55:59.630941",
+      "summarized": false
+    },
+    "29": {
+      "title": "淘宝开发平台TOP API揭秘",
+      "url": "https://www.woshipm.com/pd/29.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:56:02.290947",
+      "summarized": false
+    },
+    "30": {
+      "title": "Don’t make me think—多按钮共存设计",
+      "url": "https://www.woshipm.com/pd/30.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:56:05.533608",
+      "summarized": false
+    },
+    "6206871": {
+      "title": "AI数据中心实战：量化标签的AI效能革命",
+      "url": "https://www.woshipm.com/pd/6206871.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:56:19.619634",
+      "summarized": false
+    },
+    "6319445": {
+      "title": "搞懂系统流程图与业务流程图的区别，工作效率直接翻倍2026-01-07",
+      "url": "https://www.woshipm.com/pd/6319445.html",
+      "category": "pd",
+      "crawled_at": "2026-05-26T22:56:23.751367",
+      "summarized": false
+    },
+    "6182035": {
+      "title": "“送礼物”口碑高开低走，它会成为微信的“节日限定”吗？",
+      "url": "https://www.woshipm.com/it/6182035.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:34.085432",
+      "summarized": false
+    },
+    "6258322": {
+      "title": "窝囊旅游，当代年轻人的“邪修”2025-08-21",
+      "url": "https://www.woshipm.com/it/6258322.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:37.539409",
+      "summarized": false
+    },
+    "6402763": {
+      "title": "阿里和亚马逊，AI电商的两个差异化样本",
+      "url": "https://www.woshipm.com/it/6402763.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:44.484854",
+      "summarized": false
+    },
+    "6402528": {
+      "title": "从规模到质量，木鸟途家美团转向情绪消费",
+      "url": "https://www.woshipm.com/it/6402528.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:46.889633",
+      "summarized": false
+    },
+    "6402428": {
+      "title": "红果补贴退潮，火了半年的AI短剧风口停了？",
+      "url": "https://www.woshipm.com/it/6402428.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:50.097736",
+      "summarized": false
+    },
+    "6402349": {
+      "title": "AI时代，大厂重回PC战场",
+      "url": "https://www.woshipm.com/it/6402349.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:54.136845",
+      "summarized": false
+    },
+    "6401789": {
+      "title": "把小众爱好做成副业，「手工经济」这八大赛道出圈了",
+      "url": "https://www.woshipm.com/it/6401789.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:56:57.596192",
+      "summarized": false
+    },
+    "6401763": {
+      "title": "没有人推拉勾一下，它只是自己倒下了",
+      "url": "https://www.woshipm.com/it/6401763.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:00.357898",
+      "summarized": false
+    },
+    "6401741": {
+      "title": "快手的中年拐点",
+      "url": "https://www.woshipm.com/it/6401741.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:02.984507",
+      "summarized": false
+    },
+    "6401693": {
+      "title": "短剧出海“狂飙”，谁在幕后稳稳收割红利？",
+      "url": "https://www.woshipm.com/it/6401693.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:05.346061",
+      "summarized": false
+    },
+    "6400910": {
+      "title": "抖音和QQ抢“杀马特”？",
+      "url": "https://www.woshipm.com/it/6400910.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:08.259272",
+      "summarized": false
+    },
+    "6400905": {
+      "title": "互联网大厂，挤着去县城开超市",
+      "url": "https://www.woshipm.com/it/6400905.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:11.697135",
+      "summarized": false
+    },
+    "6400903": {
+      "title": "全球社交的旧王与新王",
+      "url": "https://www.woshipm.com/it/6400903.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:14.347457",
+      "summarized": false
+    },
+    "6400896": {
+      "title": "拼豆，所有手工都值得用“情绪”重做一遍",
+      "url": "https://www.woshipm.com/it/6400896.html",
+      "category": "it",
+      "crawled_at": "2026-05-26T22:57:17.108003",
+      "summarized": false
+    },
+    "6402802": {
+      "title": "四个老板，四个行业，但他们不敢上AI的理由一模一样",
+      "url": "https://www.woshipm.com/ai/6402802.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:37.468582",
+      "summarized": false
+    },
+    "6402747": {
+      "title": "AI的下一战：从“生成万物”到“修复记忆”，定义情感连续性新协议",
+      "url": "https://www.woshipm.com/ai/6402747.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:39.621994",
+      "summarized": false
+    },
+    "6402303": {
+      "title": "AI 产品经理手记：badcase如何回流（下）",
+      "url": "https://www.woshipm.com/ai/6402303.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:42.264350",
+      "summarized": false
+    },
+    "6402438": {
+      "title": "最强安全模型 Mythos 来了：别听自媒体吹牛，这只是 B 端自动化的补票工具",
+      "url": "https://www.woshipm.com/ai/6402438.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:46.226844",
+      "summarized": false
+    },
+    "6402425": {
+      "title": "模型会出错，可流程不许出错——零容忍场景里，AI 产品经理到底在管什么",
+      "url": "https://www.woshipm.com/ai/6402425.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:48.389385",
+      "summarized": false
+    },
+    "6402517": {
+      "title": "财务AI最先赚钱，但99%的人都搞错了方向",
+      "url": "https://www.woshipm.com/ai/6402517.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:51.851496",
+      "summarized": false
+    },
+    "6402444": {
+      "title": "118美元买一个AI宠物项圈，只为听猫说一句”想你了”",
+      "url": "https://www.woshipm.com/ai/6402444.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:55.216392",
+      "summarized": false
+    },
+    "6402448": {
+      "title": "转岗 AI 产品经理，赢在第一步：先搞懂自己适合哪一类",
+      "url": "https://www.woshipm.com/ai/6402448.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:57:57.691465",
+      "summarized": false
+    },
+    "6402446": {
+      "title": "AI把PRD、原型、竞品分析全干了，那我干啥？",
+      "url": "https://www.woshipm.com/ai/6402446.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:01.673765",
+      "summarized": false
+    },
+    "6402445": {
+      "title": "拉美互联网，不适合着急的人",
+      "url": "https://www.woshipm.com/ai/6402445.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:05.132152",
+      "summarized": false
+    },
+    "6402442": {
+      "title": "被验证成功的万亿Anthropic，正在为SaaS企业带来怎样的启示？",
+      "url": "https://www.woshipm.com/ai/6402442.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:09.104636",
+      "summarized": false
+    },
+    "6402420": {
+      "title": "最近几个月的AI大模型独立应用实践-3-大模型解决不了一切",
+      "url": "https://www.woshipm.com/ai/6402420.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:12.162892",
+      "summarized": false
+    },
+    "6311927": {
+      "title": "AI批量制造的“跳楼机”，快把音乐平台冲烂了",
+      "url": "https://www.woshipm.com/ai/6311927.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:26.198247",
+      "summarized": false
+    },
+    "6343116": {
+      "title": "2026红包大战：中国AI应用迈向春秋五霸时代2026-02-21",
+      "url": "https://www.woshipm.com/ai/6343116.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:29.737478",
+      "summarized": false
+    },
+    "6354730": {
+      "title": "AI时代注意力就是你需要的一切",
+      "url": "https://www.woshipm.com/ai/6354730.html",
+      "category": "ai",
+      "crawled_at": "2026-05-26T22:58:33.377490",
+      "summarized": false
+    },
+    "6402796": {
+      "title": "高客单增长复盘：退货率会吃掉品牌溢价",
+      "url": "https://www.woshipm.com/share/6402796.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:58:43.703762",
+      "summarized": false
+    },
+    "6402725": {
+      "title": "货代制单工作台实战：如何把「手工做 PDF」变成一键生成、层层把关的制单闭环？",
+      "url": "https://www.woshipm.com/share/6402725.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:58:47.790144",
+      "summarized": false
+    },
+    "6402768": {
+      "title": "开市客终于开始摸着山姆过河了",
+      "url": "https://www.woshipm.com/share/6402768.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:58:50.243685",
+      "summarized": false
+    },
+    "6402734": {
+      "title": "Cursor：请大家再爱我一次",
+      "url": "https://www.woshipm.com/share/6402734.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:58:54.043489",
+      "summarized": false
+    },
+    "6402403": {
+      "title": "自动驾驶等待ChatGPT时刻",
+      "url": "https://www.woshipm.com/share/6402403.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:58:57.537257",
+      "summarized": false
+    },
+    "6079327": {
+      "title": "跟着孩子的视角思考产品方向2024-07-08",
+      "url": "https://www.woshipm.com/share/6079327.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:59:19.024048",
+      "summarized": false
+    },
+    "6402949": {
+      "title": "打破边界：深入解析HarmonyOS统一拖拽实现",
+      "url": "https://www.woshipm.com/share/6402949.html",
+      "category": "share",
+      "crawled_at": "2026-05-26T22:59:23.028372",
+      "summarized": false
+    },
+    "6396187": {
+      "title": "AI产品经理成长实战：手把手带你0-1落地一款AI产品！",
+      "url": "https://www.woshipm.com/class/6396187.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:30.058159",
+      "summarized": false
+    },
+    "6393949": {
+      "title": "未来3年，什么样的产品经理不会被AI替代？",
+      "url": "https://www.woshipm.com/class/6393949.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:32.717931",
+      "summarized": false
+    },
+    "6393002": {
+      "title": "从“该做”到“能做”，AI产品经理如何做好AI产品立项决策？",
+      "url": "https://www.woshipm.com/class/6393002.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:35.194216",
+      "summarized": false
+    },
+    "6390350": {
+      "title": "AI时代，产品经理如何判断真正的AI机会？避免跟风踩坑",
+      "url": "https://www.woshipm.com/class/6390350.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:38.752356",
+      "summarized": false
+    },
+    "6386243": {
+      "title": "5月求职必看，如何4步拿到产品/AI产品offer？",
+      "url": "https://www.woshipm.com/class/6386243.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:41.451112",
+      "summarized": false
+    },
+    "6385738": {
+      "title": "转型AI产品经理4大关键步骤，90%的人都搞反了！",
+      "url": "https://www.woshipm.com/class/6385738.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:45.200756",
+      "summarized": false
+    },
+    "6379552": {
+      "title": "AI时代，产品经理的生存之道",
+      "url": "https://www.woshipm.com/class/6379552.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:48.823271",
+      "summarized": false
+    },
+    "6379168": {
+      "title": "0经验转AI产品经理，拿下40W年薪offer！",
+      "url": "https://www.woshipm.com/class/6379168.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:51.746190",
+      "summarized": false
+    },
+    "6369871": {
+      "title": "面试被拒N次，0经验如何2个月入行AI产品经理拿到offer？",
+      "url": "https://www.woshipm.com/class/6369871.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:55.873884",
+      "summarized": false
+    },
+    "6377610": {
+      "title": "产品经理如何顺利度过试用期？做好3点高效掌握职场主动权!",
+      "url": "https://www.woshipm.com/class/6377610.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T22:59:58.779839",
+      "summarized": false
+    },
+    "6376821": {
+      "title": "腾讯产品/AI产品类岗位扩招39%，0经验 不懂技术如何高效转型AI产品经理？",
+      "url": "https://www.woshipm.com/class/6376821.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T23:00:02.385800",
+      "summarized": false
+    },
+    "6375317": {
+      "title": "AI 浪潮下，产品经理如何安全渡过试用期？90%的人踩了这3个坑",
+      "url": "https://www.woshipm.com/class/6375317.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T23:00:06.164418",
+      "summarized": false
+    },
+    "6192675": {
+      "title": "想转行AI产品经理？这3大常见误区，别踩！",
+      "url": "https://www.woshipm.com/class/6192675.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T23:00:23.972634",
+      "summarized": false
+    },
+    "6152629": {
+      "title": "B端产品经理必看：需求管理3大避坑指南！2024-12-10",
+      "url": "https://www.woshipm.com/class/6152629.html",
+      "category": "class",
+      "crawled_at": "2026-05-26T23:00:27.796569",
+      "summarized": false
+    }
+  },
+  "last_crawl": "2026-05-26T23:00:40.961813",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,

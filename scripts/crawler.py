@@ -133,8 +133,7 @@ class WoshipmCrawler:
             文章列表
         """
         # 构建URL
-        # 注意：这里的URL格式需要根据实际网站结构调整
-        url = f"{self.base_url}/category/{category}/page/{page}"
+        url = f"{self.base_url}/category/{category}"
 
         self.logger.info(f"正在爬取文章列表: {url}")
 
@@ -144,11 +143,75 @@ class WoshipmCrawler:
             return []
 
         # 解析文章列表
-        parser = ArticleParser(response.text)
-        articles = parser.parse_article_list()
+        articles = self._parse_article_links(response.text, category)
 
         self.logger.info(f"找到 {len(articles)} 篇文章")
         return articles
+
+    def _parse_article_links(self, html: str, category: str) -> List[Dict]:
+        """解析文章链接
+
+        Args:
+            html: HTML内容
+            category: 文章分类
+
+        Returns:
+            文章列表
+        """
+        soup = BeautifulSoup(html, 'lxml')
+        articles = []
+
+        # 查找所有链接
+        links = soup.find_all('a', href=True)
+
+        for link in links:
+            href = link.get('href', '')
+
+            # 检查是否是文章链接
+            if f'/{category}/' in href and '.html' in href:
+                # 构建完整URL
+                if not href.startswith('http'):
+                    href = f"{self.base_url}{href}"
+
+                # 提取文章ID
+                article_id = self._extract_article_id(href)
+
+                # 提取标题
+                title = link.get_text(strip=True)
+                if not title or len(title) < 5:
+                    # 尝试从父元素获取标题
+                    parent = link.parent
+                    if parent:
+                        title = parent.get_text(strip=True)[:100]
+
+                if title and len(title) >= 5:
+                    articles.append({
+                        'id': article_id,
+                        'title': title,
+                        'url': href,
+                        'category': category,
+                        'crawled_at': datetime.now().isoformat()
+                    })
+
+        return articles
+
+    def _extract_article_id(self, url: str) -> str:
+        """从URL中提取文章ID
+
+        Args:
+            url: 文章URL
+
+        Returns:
+            文章ID
+        """
+        import re
+        # 尝试从URL中提取数字ID
+        match = re.search(r'/(\d+)\.html', url)
+        if match:
+            return match.group(1)
+
+        # 如果没有找到，使用URL的hash作为ID
+        return hashlib.md5(url.encode()).hexdigest()[:12]
 
     def crawl_article_detail(self, url: str) -> Optional[Dict]:
         """爬取文章详情
