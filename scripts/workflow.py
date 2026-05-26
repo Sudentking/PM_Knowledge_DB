@@ -140,13 +140,20 @@ class KnowledgeWorkflow:
 
         start_time = datetime.now()
 
-        # 步骤1：爬取
+        # 步骤0：加载已有文章ID（用于去重）
+        existing_ids = self._get_existing_article_ids()
+        self.logger.info(f"知识库中已有 {len(existing_ids)} 篇文章")
+
+        # 步骤1：爬取（过滤已存在的文章）
         articles = self.run_crawl()
 
         # 步骤2：总结
         summarized_count = self.run_summarize()
 
-        # 步骤3：Git操作
+        # 步骤3：重命名文章（使用有意义的标题）
+        renamed_count = self._rename_articles()
+
+        # 步骤4：Git操作
         self.run_git_operations(len(articles))
 
         # 计算耗时
@@ -157,14 +164,122 @@ class KnowledgeWorkflow:
         self.logger.info("工作流执行完成")
         self.logger.info(f"爬取文章数: {len(articles)}")
         self.logger.info(f"总结文章数: {summarized_count}")
+        self.logger.info(f"重命名文章数: {renamed_count}")
         self.logger.info(f"总耗时: {duration:.2f}秒")
         self.logger.info("=" * 60)
 
         return {
             'crawled': len(articles),
             'summarized': summarized_count,
+            'renamed': renamed_count,
             'duration': duration
         }
+
+    def _get_existing_article_ids(self) -> set:
+        """获取知识库中已存在的文章ID"""
+        existing_ids = set()
+
+        # 从索引文件获取
+        index_file = Path("data/index.json")
+        if index_file.exists():
+            with open(index_file, 'r', encoding='utf-8') as f:
+                index = json.load(f)
+            existing_ids.update(index.get('articles', {}).keys())
+
+        # 从原始数据目录获取
+        raw_dir = Path("data/raw")
+        if raw_dir.exists():
+            for date_dir in raw_dir.iterdir():
+                if date_dir.is_dir():
+                    for json_file in date_dir.glob("*.json"):
+                        existing_ids.add(json_file.stem)
+
+        return existing_ids
+
+    def _rename_articles(self) -> int:
+        """重命名文章为有意义的标题
+
+        Returns:
+            重命名的文章数量
+        """
+        import re
+
+        kb_dir = Path("knowledge_base")
+        renamed_count = 0
+
+        for category_dir in kb_dir.iterdir():
+            if not category_dir.is_dir() or category_dir.name.startswith('.'):
+                continue
+
+            for date_dir in category_dir.iterdir():
+                if not date_dir.is_dir():
+                    continue
+
+                for md_file in date_dir.glob("*.md"):
+                    try:
+                        current_name = md_file.stem
+
+                        # 跳过已有好标题的文件
+                        if not current_name.startswith('文章_') and '_待补充_' not in current_name:
+                            continue
+
+                        # 读取文件内容
+                        with open(md_file, 'r', encoding='utf-8') as f:
+                            content = f.read()
+
+                        # 提取标题
+                        title = self._extract_title(content, current_name)
+
+                        if title and not title.startswith('文章_'):
+                            # 生成安全文件名
+                            safe_title = re.sub(r'[<>:"/\\|?*]', '', title)
+                            safe_title = re.sub(r'\s+', '_', safe_title)
+                            safe_title = safe_title.strip('_')[:50]
+
+                            if safe_title:
+                                new_filename = f"{safe_title}.md"
+                                new_path = md_file.parent / new_filename
+
+                                # 避免重名
+                                if new_path.exists() and new_path != md_file:
+                                    article_id = current_name.split('_')[-1]
+                                    new_filename = f"{safe_title}_{article_id}.md"
+                                    new_path = md_file.parent / new_filename
+
+                                if new_path != md_file and not new_path.exists():
+                                    md_file.rename(new_path)
+                                    renamed_count += 1
+                                    self.logger.info(f"重命名: {md_file.name} -> {new_filename}")
+
+                    except Exception as e:
+                        self.logger.error(f"重命名失败 {md_file}: {e}")
+
+        return renamed_count
+
+    def _extract_title(self, content: str, current_name: str) -> str:
+        """从内容中提取标题"""
+        import re
+
+        lines = content.split('\n')
+
+        # 方法1: 从第一行提取
+        first_line = lines[0].strip() if lines else ''
+        if first_line.startswith('#') and not first_line.startswith('# 文章_'):
+            title = first_line.lstrip('#').strip()
+            if 5 <= len(title) <= 80:
+                return title
+
+        # 方法2: 从"核心观点"提取
+        for i, line in enumerate(lines):
+            if ('核心观点' in line or '核心思想' in line) and ('是' in line or '为' in line):
+                match = re.search(r'(?:核心观点|核心思想)[是为：:\s]+(.+?)(?:[。,.]|$)', line)
+                if match:
+                    title = match.group(1).strip()
+                    title = re.sub(r'["""'']', '', title)
+                    if 10 <= len(title) <= 50:
+                        return title
+
+        return ''
 
     def run_crawl_only(self):
         """仅执行爬取"""
