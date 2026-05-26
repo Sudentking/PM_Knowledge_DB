@@ -95,12 +95,34 @@ class ArticleParser:
         Returns:
             文章详情，包含：title, content, author, publish_time, tags
         """
-        # 提取标题
-        title_elem = self.soup.select_one('h1.post-title, h1.article-title, .article-header h1')
-        title = title_elem.get_text(strip=True) if title_elem else ''
+        # 提取标题 - 尝试多种选择器
+        title = ''
+        title_selectors = [
+            'h1.post-title',
+            'h1.article-title',
+            '.article-header h1',
+            '.post-title',
+            '.article-title',
+            'h1'
+        ]
+        for selector in title_selectors:
+            title_elem = self.soup.select_one(selector)
+            if title_elem:
+                title = title_elem.get_text(strip=True)
+                if title:
+                    break
+
+        # 如果还是没有标题，从title标签提取
+        if not title:
+            title_elem = self.soup.select_one('title')
+            if title_elem:
+                title = title_elem.get_text(strip=True)
+                # 移除网站名称
+                if ' | ' in title:
+                    title = title.split(' | ')[0]
 
         # 提取内容
-        content_elem = self.soup.select_one('.post-content, .article-content, .entry-content')
+        content_elem = self.soup.select_one('.post-content, .article-content, .entry-content, .article-detail')
         content = ''
         if content_elem:
             # 移除脚本和样式标签
@@ -108,21 +130,55 @@ class ArticleParser:
                 script.decompose()
             content = content_elem.get_text(separator='\n', strip=True)
 
-        # 提取作者
-        author_elem = self.soup.select_one('.post-author, .article-author, .author-name')
-        author = author_elem.get_text(strip=True) if author_elem else ''
+        # 提取作者 - 尝试多种选择器
+        author = ''
+        author_selectors = [
+            '.post-author',
+            '.article-author',
+            '.author-name',
+            '.author',
+            '.writer',
+            '.user-name'
+        ]
+        for selector in author_selectors:
+            author_elem = self.soup.select_one(selector)
+            if author_elem:
+                author = author_elem.get_text(strip=True)
+                if author:
+                    break
 
         # 提取发布时间
-        time_elem = self.soup.select_one('.post-date, .article-time, time')
-        publish_time = time_elem.get_text(strip=True) if time_elem else ''
+        publish_time = ''
+        time_selectors = [
+            '.post-date',
+            '.article-time',
+            'time',
+            '.date',
+            '.time',
+            '.publish-time'
+        ]
+        for selector in time_selectors:
+            time_elem = self.soup.select_one(selector)
+            if time_elem:
+                publish_time = time_elem.get_text(strip=True)
+                if publish_time:
+                    break
 
         # 提取标签
         tags = []
-        tag_elems = self.soup.select('.post-tag, .article-tag, .tag-item')
-        for tag_elem in tag_elems:
-            tag = tag_elem.get_text(strip=True)
-            if tag:
-                tags.append(tag)
+        tag_selectors = [
+            '.post-tag',
+            '.article-tag',
+            '.tag-item',
+            '.tag',
+            '.label'
+        ]
+        for selector in tag_selectors:
+            tag_elems = self.soup.select(selector)
+            for tag_elem in tag_elems:
+                tag = tag_elem.get_text(strip=True)
+                if tag and tag not in tags:
+                    tags.append(tag)
 
         # 提取正文HTML（保留格式）
         content_html = ''
