@@ -72,3 +72,15 @@ categories:
       - "行业报告"
       - "市场趋势"
       - "技术趋势"
+
+  operate:
+    name: "运营"
+    description: "运营策略、用户运营、内容运营、活动运营"
+    url_slug: "operate"
+    keywords:
+      - "运营"
+      - "用户运营"
+      - "内容运营"
+      - "活动运营"
+      - "数据运营"
+      - "增长运营"

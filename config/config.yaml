@@ -9,6 +9,7 @@ crawler:
     - "ai"           # 人工智能
     - "share"        # 分享
     - "class"        # 课堂
+    - "operate"      # 运营
   max_pages: 5
   delay_seconds: 2
   timeout: 30

@@ -294,6 +294,11 @@ class ArticleSummarizer:
         # 这里简单处理，实际项目中需要根据分类配置映射
         category_mapping = {
             'pd': 'product-design',
+            'it': 'it',
+            'ai': 'ai',
+            'share': 'share',
+            'class': 'class',
+            'operate': 'operate',
             'user-research': 'user-research',
             'data-analysis': 'data-analysis',
             'project-management': 'project-management',
