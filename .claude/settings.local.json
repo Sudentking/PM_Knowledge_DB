@@ -4,7 +4,8 @@
       "WebFetch(domain:www.woshipm.com)",
       "Bash(git init *)",
       "Bash(python scripts/test_system.py)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "WebSearch"
     ]
   }
 }

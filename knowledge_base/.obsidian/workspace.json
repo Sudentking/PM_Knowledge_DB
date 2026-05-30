@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class/2026-05-26/“方案边界和成本”.md",
+                "file": "test-sync.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "“方案边界和成本”"
+              "title": "test-sync"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class/2026-05-26/“方案边界和成本”.md",
+                "file": "class/2026-05-26/如何提升需求洞察力、理解企业招聘偏好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "“方案边界和成本” 的反向链接列表"
+              "title": "如何提升需求洞察力、理解企业招聘偏好 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class/2026-05-26/“方案边界和成本”.md",
+                "file": "class/2026-05-26/如何提升需求洞察力、理解企业招聘偏好.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "“方案边界和成本” 的出链列表"
+              "title": "如何提升需求洞察力、理解企业招聘偏好 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class/2026-05-26/“方案边界和成本”.md",
+                "file": "class/2026-05-26/如何提升需求洞察力、理解企业招聘偏好.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "“方案边界和成本” 的大纲"
+              "title": "如何提升需求洞察力、理解企业招聘偏好 的大纲"
             }
           }
         ]
@@ -185,32 +185,33 @@
   },
   "active": "b0a8659176aca207",
   "lastOpenFiles": [
-    "ai/2026-05-26/PettiChat_AI宠物项圈的成功并非源于其宣称的94.md",
-    "ai/2026-05-26/传统产品经理转型AI产品经理并非遥不可及.md",
-    "share/2026-05-26/高客单增长复盘退货率会吃掉品牌溢价.md",
-    "share/2026-05-26/Cursor请大家再爱我一次.md",
-    "share/2026-05-26/货代制单工作台实战如何把手工做 PDF变成一键生成层层把关的制单闭环.md",
-    "share/2026-05-26/跟着孩子的视角思考产品方向.md",
-    "product-design/2026-05-26/从0到量产汽车IPD全流程落地实战案例内含阶段详解.md",
-    "product-design/2026-05-26/一文看懂VLA自动驾驶的下一个范式.md",
-    "product-design/2026-05-26/贴贴有什么套路柠檬市场视角下的语音社交信任机制解析.md",
-    "product-design/2026-05-26/工作流引擎产品设计.md",
-    "product-design/2026-05-26/搞懂系统流程图与业务流程图的区别工作效率直接翻倍.md",
-    "product-design/2026-05-26/淘宝开发平台TOP API揭秘.md",
-    "it/2026-05-26/阿里和亚马逊AI电商的两个差异化样本.md",
-    "it/2026-05-26/红果补贴退潮火了半年的AI短剧风口停了.md",
-    "it/2026-05-26/AI时代大厂重回PC战场.md",
-    "it/2026-05-26/送礼物口碑高开低走它会成为微信的节日限定吗.md",
-    "class/2026-05-26/从该做到能做AI产品经理如何做好AI产品立项决策.md",
-    "class/2026-05-26/转型AI产品经理4大关键步骤90的人都搞反了.md",
-    "class/2026-05-26/0经验转AI产品经理拿下40W年薪offer.md",
+    "test-sync-2.md",
+    "operate/2026-05-28/1200万月活的华泰证券为什么还要做企微私域.md",
+    "test-sync.md",
+    "operate/README.md",
+    "it/2026-05-26/情绪经济正成为驱动民宿行业竞争格局重塑的核心力量.md",
+    "operate",
+    "it/2026-05-26/互联网大厂（美团、阿里盒马、叮咚买菜）正将线下商超的竞争主战场从一二线城市转向三四线及县域市场.md",
+    "product-design/2026-05-26/，在Web表单设计中.md",
+    "class/2026-05-26/如何提升需求洞察力、理解企业招聘偏好.md",
     "class/2026-05-26/面试被拒N次0经验如何2个月入行AI产品经理拿到offer.md",
+    "ai/2026-05-26/“如何通过用户故事地图进行产品规划”）来构建一个示例总结.md",
+    "ai/2026-05-26/大模型（如GPT、Gemini等）并非万能解药.md",
+    "ai/2026-05-26/在AI与算法双重夹击的当下，人类的注意力正经历前所未有的“破产”危机.md",
+    "ai/2026-05-26/在AI能高效产出PRD、原型等文档的时代，产品经理的价值正被重新定义.md",
+    "ai/2026-05-26/在当今存量竞争的市场环境下.md",
+    "ai/2026-05-26/模型评测产出的badcase并非一个黑箱”.md",
+    "ai/2026-05-26/当前企业AI落地的核心障碍并非技术或资金.md",
+    "ai/2026-05-26/大模型商业化的成功路径.md",
     "ai/2026-05-26/被验证成功的万亿Anthropic正在为SaaS企业带来怎样的启示.md",
-    "class/2026-05-26/课程_待补充_6379168.md",
-    "class/2026-05-26/课程_待补充_6369871.md",
-    "ai/2026-05-26/AI_待补充_6402442.md",
-    "ai/2026-05-26/文章_6354730.md",
-    "product-design/2026-05-26/产品经理最大的痛楚并非做不出功能，而是耗费数月打造的功能无人问津，其根源在于陷入了“伪需求”的陷阱.md",
+    "ai/2026-05-26/传统产品经理转型AI产品经理并非遥不可及.md",
+    "ai/2026-05-26/“如何通过用户故事地图进行产品规划”）来演示总结.md",
+    "it/2026-05-26/3W咖啡与拉勾网的消亡.md",
+    "it/2026-05-26/以拼豆”为代表的手搓经济”的崛起.md",
+    "ai/2026-05-26/AI技术正在将音乐创作推向预制菜”时代.md",
+    "it/2026-05-26/文章_6402763.md",
+    "it/2026-05-26/文章_6182035.md",
+    "it/2026-05-26/文章_6402428.md",
     "ai/2026-05-26",
     "ai",
     "it/2026-05-26",
