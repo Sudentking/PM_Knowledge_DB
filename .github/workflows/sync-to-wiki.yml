@@ -1,0 +1,45 @@
+name: Sync to Personal Wiki
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge_base/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PM repo
+        uses: actions/checkout@v3
+        with:
+          path: pm-repo
+
+      - name: Checkout Wiki repo
+        uses: actions/checkout@v3
+        with:
+          repository: Sudentking/personal-llm-wiki
+          token: ${{ secrets.WIKI_SYNC_TOKEN }}
+          path: wiki-repo
+
+      - name: Sync content
+        run: |
+          # 删除旧内容
+          rm -rf wiki-repo/raw/pm/*
+
+          # 复制新内容
+          cp -r pm-repo/knowledge_base/* wiki-repo/raw/pm/
+
+          # 提交
+          cd wiki-repo
+          git config user.name "PM Sync Bot"
+          git config user.email "bot@example.com"
+          git add raw/pm/
+
+          # 只在有变化时提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "sync: Update PM knowledge from $(date +%Y-%m-%d)"
+            git push
+          fi
