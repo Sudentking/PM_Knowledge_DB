@@ -3107,9 +3107,170 @@
       "category": "operate",
       "crawled_at": "2026-06-07T02:03:12.041943",
       "summarized": false
+    },
+    "6251687": {
+      "title": "企业需要什么样的财务系统或财务产品",
+      "url": "https://www.woshipm.com/pd/6251687.html",
+      "category": "pd",
+      "crawled_at": "2026-06-08T02:00:09.903297",
+      "summarized": false
+    },
+    "6196775": {
+      "title": "需求文档总被怼？请收下这篇自救宝典2025-03-26",
+      "url": "https://www.woshipm.com/pd/6196775.html",
+      "category": "pd",
+      "crawled_at": "2026-06-08T02:00:12.111829",
+      "summarized": false
+    },
+    "6149634": {
+      "title": "ChatGPT两周年，国产o1大模型们紧追不舍",
+      "url": "https://www.woshipm.com/it/6149634.html",
+      "category": "it",
+      "crawled_at": "2026-06-08T02:00:34.386809",
+      "summarized": false
+    },
+    "6179065": {
+      "title": "护城河崩塌：互联网巨头的“超限战争”与生态大迁徙2025-02-13",
+      "url": "https://www.woshipm.com/it/6179065.html",
+      "category": "it",
+      "crawled_at": "2026-06-08T02:00:37.970994",
+      "summarized": false
+    },
+    "6297521": {
+      "title": "只干了一年律师，凭啥靠AI做出80亿美元公司？",
+      "url": "https://www.woshipm.com/ai/6297521.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:03.082251",
+      "summarized": false
+    },
+    "6396264": {
+      "title": "选择市场，比选择岗位更重要：为什么我更看好 AI + 出海2026-05-15",
+      "url": "https://www.woshipm.com/ai/6396264.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:06.741186",
+      "summarized": false
+    },
+    "6334333": {
+      "title": "一文讲透AI的三大核心要素之一：算力",
+      "url": "https://www.woshipm.com/ai/6334333.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:10.984586",
+      "summarized": false
+    },
+    "6409303": {
+      "title": "AI 时代的产品经理：不是被取代，是工作流被重写了",
+      "url": "https://www.woshipm.com/ai/6409303.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:17.964471",
+      "summarized": false
+    },
+    "6409302": {
+      "title": "今年618，AI到底帮了谁？",
+      "url": "https://www.woshipm.com/ai/6409302.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:20.983415",
+      "summarized": false
+    },
+    "6409300": {
+      "title": "a16z 合伙人：大模型吃掉通用任务，创业公司吃掉垂直行业",
+      "url": "https://www.woshipm.com/ai/6409300.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:24.525177",
+      "summarized": false
+    },
+    "6409299": {
+      "title": "争夺AI手机入口，豆包和微信打起来了",
+      "url": "https://www.woshipm.com/ai/6409299.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:27.363953",
+      "summarized": false
+    },
+    "6409257": {
+      "title": "别再迷信 RAG 了：在医疗产品里，我把通用 RAG 那套几乎全推翻了",
+      "url": "https://www.woshipm.com/ai/6409257.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:29.970367",
+      "summarized": false
+    },
+    "6409246": {
+      "title": "AI互联网日报：字节跳动澄清“赛豆”不是豆包汽车/OpenAI 推出 Lockdown Mode/腾讯大量代码交给 AI",
+      "url": "https://www.woshipm.com/ai/6409246.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:33.990338",
+      "summarized": false
+    },
+    "6409193": {
+      "title": "微信“抢婚”豆包？",
+      "url": "https://www.woshipm.com/ai/6409193.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:36.194186",
+      "summarized": false
+    },
+    "6409133": {
+      "title": "AI生成的美女，正在“污染”人类审美！你还能分清真假吗？",
+      "url": "https://www.woshipm.com/ai/6409133.html",
+      "category": "ai",
+      "crawled_at": "2026-06-08T02:01:39.471645",
+      "summarized": false
+    },
+    "6409175": {
+      "title": "当产品经理遇上项目管理：我的跨角色实战总结",
+      "url": "https://www.woshipm.com/share/6409175.html",
+      "category": "share",
+      "crawled_at": "2026-06-08T02:01:57.383691",
+      "summarized": false
+    },
+    "6409194": {
+      "title": "从“账户余额”到“可用余额”：看资金产品的信息认知转向",
+      "url": "https://www.woshipm.com/share/6409194.html",
+      "category": "share",
+      "crawled_at": "2026-06-08T02:02:00.903216",
+      "summarized": false
+    },
+    "6408668": {
+      "title": "当差评变成起点：如何在微博实践产品口碑逆转的认知重构法",
+      "url": "https://www.woshipm.com/share/6408668.html",
+      "category": "share",
+      "crawled_at": "2026-06-08T02:02:03.896185",
+      "summarized": false
+    },
+    "6409093": {
+      "title": "0经验转型AI产品经理，项目、简历、面试如何做好准备？",
+      "url": "https://www.woshipm.com/class/6409093.html",
+      "category": "class",
+      "crawled_at": "2026-06-08T02:02:26.862636",
+      "summarized": false
+    },
+    "6297530": {
+      "title": "转型AI产品经理4大关键步骤，90%的人都搞反了！",
+      "url": "https://www.woshipm.com/class/6297530.html",
+      "category": "class",
+      "crawled_at": "2026-06-08T02:02:44.000694",
+      "summarized": false
+    },
+    "6263205": {
+      "title": "B端产品项目进度难把控，经常延期怎么办？2025-09-01",
+      "url": "https://www.woshipm.com/class/6263205.html",
+      "category": "class",
+      "crawled_at": "2026-06-08T02:02:47.817876",
+      "summarized": false
+    },
+    "6117107": {
+      "title": "用户留存方法论提炼：如何选择适合自己产品的留存策略？",
+      "url": "https://www.woshipm.com/operate/6117107.html",
+      "category": "operate",
+      "crawled_at": "2026-06-08T02:02:55.477558",
+      "summarized": false
+    },
+    "6179819": {
+      "title": "同样意思不同反应：如何运用“框架效应”赢得投诉客户好感？2025-02-16",
+      "url": "https://www.woshipm.com/operate/6179819.html",
+      "category": "operate",
+      "crawled_at": "2026-06-08T02:02:59.035913",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-07T02:03:31.382135",
+  "last_crawl": "2026-06-08T02:03:22.800504",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
