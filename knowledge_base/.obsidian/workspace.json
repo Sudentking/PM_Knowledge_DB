@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "豆包打响发令枪终结中国大模型免费时代",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b0a8659176aca207",
+  "active": "92ae32e358955a62",
   "lastOpenFiles": [
+    "ai/2026-06-08/AI 时代的产品经理不是被取代是工作流被重写了.md",
     "ai/2026-06-08/今年618AI到底帮了谁.md",
     "ai/2026-06-08/a16z 合伙人大模型吃掉通用任务创业公司吃掉垂直行业.md",
     "ai/2026-06-08/争夺AI手机入口豆包和微信打起来了.md",
@@ -217,7 +217,6 @@
     "class/2026-06-04/AI时代产品经理人才筛选决策逻辑揭密注意这些新要求.md",
     "share/2026-06-05/都说消费大降级为啥高档酒店却越开越多.md",
     "ai/2026-06-05/AI的中场危机没人能轻松获益所有人都在焦虑.md",
-    "it/2026-06-05/京东稳赚不赔的生意经.md",
     "share/2026-06-05",
     "product-design/2026-06-05",
     "ai/2026-06-05",
