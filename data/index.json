@@ -4416,9 +4416,310 @@
       "category": "operate",
       "crawled_at": "2026-06-12T02:04:12.783919",
       "summarized": false
+    },
+    "6411078": {
+      "title": "AI+金融体验落地场景，从战略到合规的全链路实战",
+      "url": "https://www.woshipm.com/pd/6411078.html",
+      "category": "pd",
+      "crawled_at": "2026-06-14T02:00:07.533479",
+      "summarized": false
+    },
+    "6411938": {
+      "title": "PM 即 Builder：当产品经理可以一个人把想法跑成产品",
+      "url": "https://www.woshipm.com/pd/6411938.html",
+      "category": "pd",
+      "crawled_at": "2026-06-14T02:00:10.152111",
+      "summarized": false
+    },
+    "6412163": {
+      "title": "存量时代，社交行业还有机会吗？",
+      "url": "https://www.woshipm.com/pd/6412163.html",
+      "category": "pd",
+      "crawled_at": "2026-06-14T02:00:14.402240",
+      "summarized": false
+    },
+    "6364789": {
+      "title": "以人为中的工业控制操作系统心设计",
+      "url": "https://www.woshipm.com/pd/6364789.html",
+      "category": "pd",
+      "crawled_at": "2026-06-14T02:00:25.150059",
+      "summarized": false
+    },
+    "6412947": {
+      "title": "百亿补贴的真相",
+      "url": "https://www.woshipm.com/it/6412947.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:38.770840",
+      "summarized": false
+    },
+    "6342847": {
+      "title": "字节跳动的硬科技转型：豆包AI的19亿次互动",
+      "url": "https://www.woshipm.com/it/6342847.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:41.716033",
+      "summarized": false
+    },
+    "6412654": {
+      "title": "AI时代掉队，不是因为不努力，是因为不知道这些！",
+      "url": "https://www.woshipm.com/it/6412654.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:45.221129",
+      "summarized": false
+    },
+    "6412646": {
+      "title": "SpaceX万亿叙事升值史: 马斯克是如何讲故事的？",
+      "url": "https://www.woshipm.com/it/6412646.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:48.989097",
+      "summarized": false
+    },
+    "6412259": {
+      "title": "KTV“无人化”：去掉服务更赚钱？",
+      "url": "https://www.woshipm.com/it/6412259.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:52.424386",
+      "summarized": false
+    },
+    "6412296": {
+      "title": "NPC席卷景区，无名角色成了短视频里的新顶流",
+      "url": "https://www.woshipm.com/it/6412296.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:55.967341",
+      "summarized": false
+    },
+    "6412263": {
+      "title": "知乎、豆阅、小红书：短剧能带网文这门生意走多远？",
+      "url": "https://www.woshipm.com/it/6412263.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:00:58.446350",
+      "summarized": false
+    },
+    "6411806": {
+      "title": "企业需要构建多少内容，才能撑起优秀的数字体验？",
+      "url": "https://www.woshipm.com/it/6411806.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:01:00.837265",
+      "summarized": false
+    },
+    "6150908": {
+      "title": "现阶段的大模型，发展在放缓，还是提速？",
+      "url": "https://www.woshipm.com/it/6150908.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:01:07.993076",
+      "summarized": false
+    },
+    "6197139": {
+      "title": "是否进入SaaS行业？写给传统企业主的四点建议2025-03-26",
+      "url": "https://www.woshipm.com/it/6197139.html",
+      "category": "it",
+      "crawled_at": "2026-06-14T02:01:10.886085",
+      "summarized": false
+    },
+    "6412839": {
+      "title": "微信“掀桌”，吴嘉求变千问AI",
+      "url": "https://www.woshipm.com/ai/6412839.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:29.230609",
+      "summarized": false
+    },
+    "6412096": {
+      "title": "我把15年经验「蒸馏」成了AI技能，上架GitHub之后发现个人IP的玩法进阶了",
+      "url": "https://www.woshipm.com/ai/6412096.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:32.857092",
+      "summarized": false
+    },
+    "6411229": {
+      "title": "同一个AI，同一个问题，为什么别人的答案比你的值钱十倍？",
+      "url": "https://www.woshipm.com/ai/6411229.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:36.608595",
+      "summarized": false
+    },
+    "6412816": {
+      "title": "B端AI落地：如何从业务流程中找到高价值场景",
+      "url": "https://www.woshipm.com/ai/6412816.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:40.986446",
+      "summarized": false
+    },
+    "6412511": {
+      "title": "Sola：22 岁 MIT 辍学生，想重做企业流程自动化",
+      "url": "https://www.woshipm.com/ai/6412511.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:43.854972",
+      "summarized": false
+    },
+    "6411997": {
+      "title": "用 AI 干掉一个真实业务痛点：游戏资产命名，怎么从人工传递变成规则生成",
+      "url": "https://www.woshipm.com/ai/6411997.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:46.301486",
+      "summarized": false
+    },
+    "6413000": {
+      "title": "一场比小程序更大的收编",
+      "url": "https://www.woshipm.com/ai/6413000.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:49.435184",
+      "summarized": false
+    },
+    "6412666": {
+      "title": "我用了两天时间，把一个设计师朋友八年的品牌设计经验蒸馏成skill",
+      "url": "https://www.woshipm.com/ai/6412666.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:53.151319",
+      "summarized": false
+    },
+    "6412653": {
+      "title": "今年618，除了AI没有任何新鲜事",
+      "url": "https://www.woshipm.com/ai/6412653.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:56.208076",
+      "summarized": false
+    },
+    "6412596": {
+      "title": "龙虾创始人一条推文引800万人围观，全网都在吵的loop工程到底是个啥？",
+      "url": "https://www.woshipm.com/ai/6412596.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:01:58.985913",
+      "summarized": false
+    },
+    "6412597": {
+      "title": "腾讯AI秘密“换船”：元宝失宠，WorkBuddy接棒",
+      "url": "https://www.woshipm.com/ai/6412597.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:01.979640",
+      "summarized": false
+    },
+    "6412248": {
+      "title": "AI聊天只是一种表现形式，AI一定是深入场景才有价值！",
+      "url": "https://www.woshipm.com/ai/6412248.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:05.446925",
+      "summarized": false
+    },
+    "6337590": {
+      "title": "大模型知道消耗了多少Token吗？",
+      "url": "https://www.woshipm.com/ai/6337590.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:13.600291",
+      "summarized": false
+    },
+    "6384765": {
+      "title": "AI平权只是幻想？按当前趋势，未来只会差异越来越大2026-04-27",
+      "url": "https://www.woshipm.com/ai/6384765.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:16.718360",
+      "summarized": false
+    },
+    "6335856": {
+      "title": "Clawdbot/Moltbot风波启示录：AI产品经理的“进阶”必修课",
+      "url": "https://www.woshipm.com/ai/6335856.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:19.161911",
+      "summarized": false
+    },
+    "6372993": {
+      "title": "Gemma 4 爆火背后：开源 AI 的权力，正在换手",
+      "url": "https://www.woshipm.com/ai/6372993.html",
+      "category": "ai",
+      "crawled_at": "2026-06-14T02:02:21.624471",
+      "summarized": false
+    },
+    "6412842": {
+      "title": "裸辞做AI，自由和恐惧同时到来：我的创业第一周实录",
+      "url": "https://www.woshipm.com/share/6412842.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:02:43.829242",
+      "summarized": false
+    },
+    "6412910": {
+      "title": "豆包要收费了，最先被劝退的不是穷人，而是“精明用户”",
+      "url": "https://www.woshipm.com/share/6412910.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:02:47.703811",
+      "summarized": false
+    },
+    "6412847": {
+      "title": "华为鸿蒙再突破，AI开启加速度",
+      "url": "https://www.woshipm.com/share/6412847.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:02:51.913081",
+      "summarized": false
+    },
+    "6412318": {
+      "title": "你用AI分析了1000条反馈，结论却比分析之前更模糊了",
+      "url": "https://www.woshipm.com/share/6412318.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:02:54.564679",
+      "summarized": false
+    },
+    "6412998": {
+      "title": "花200块起5个号？这批博主靠“人设打假”开辟新赛道",
+      "url": "https://www.woshipm.com/share/6412998.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:02:57.083954",
+      "summarized": false
+    },
+    "6412812": {
+      "title": "圈层化运营：重构用户可持续增长体系",
+      "url": "https://www.woshipm.com/share/6412812.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:00.396005",
+      "summarized": false
+    },
+    "6412618": {
+      "title": "鼓励员工用AI，这可以提升他们的下限",
+      "url": "https://www.woshipm.com/share/6412618.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:04.653089",
+      "summarized": false
+    },
+    "6287424": {
+      "title": "做数据十年，终于见到能落地的“经营分析思路”",
+      "url": "https://www.woshipm.com/share/6287424.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:20.206527",
+      "summarized": false
+    },
+    "6134835": {
+      "title": "深度解析市场细分的4大维度2024-11-02",
+      "url": "https://www.woshipm.com/share/6134835.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:23.362587",
+      "summarized": false
+    },
+    "6376004": {
+      "title": "从做产品进阶拿结果：医美机构产品经理转岗科室运营经理",
+      "url": "https://www.woshipm.com/share/6376004.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:26.577803",
+      "summarized": false
+    },
+    "6368847": {
+      "title": "产品GTM，竞争分析到底听谁的？",
+      "url": "https://www.woshipm.com/share/6368847.html",
+      "category": "share",
+      "crawled_at": "2026-06-14T02:03:31.344953",
+      "summarized": false
+    },
+    "6155562": {
+      "title": "揭密大中小厂产品人才需求差异：产品经理职业发展机遇在哪？",
+      "url": "https://www.woshipm.com/class/6155562.html",
+      "category": "class",
+      "crawled_at": "2026-06-14T02:04:00.930972",
+      "summarized": false
+    },
+    "6164503": {
+      "title": "2025年产品求职洞察：企业更青睐哪一类产品经理？2024-12-31",
+      "url": "https://www.woshipm.com/class/6164503.html",
+      "category": "class",
+      "crawled_at": "2026-06-14T02:04:04.178221",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-12T02:04:36.829773",
+  "last_crawl": "2026-06-14T02:04:30.666239",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
