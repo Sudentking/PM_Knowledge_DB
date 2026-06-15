@@ -4913,9 +4913,254 @@
       "category": "operate",
       "crawled_at": "2026-06-15T02:03:20.667496",
       "summarized": false
+    },
+    "6413541": {
+      "title": "从“事后报警”到“提前 42 秒”：一个大学生团队如何重做电动车充电棚的火灾预警",
+      "url": "https://www.woshipm.com/pd/6413541.html",
+      "category": "pd",
+      "crawled_at": "2026-06-16T02:00:08.599676",
+      "summarized": false
+    },
+    "6413394": {
+      "title": "手感终会过时，但求真的能力不会：从《置身钉内》提炼的6个产品思维启示",
+      "url": "https://www.woshipm.com/pd/6413394.html",
+      "category": "pd",
+      "crawled_at": "2026-06-16T02:00:12.033371",
+      "summarized": false
+    },
+    "6197912": {
+      "title": "数据中台：企业数字化转型的关键驱动力",
+      "url": "https://www.woshipm.com/pd/6197912.html",
+      "category": "pd",
+      "crawled_at": "2026-06-16T02:00:18.129410",
+      "summarized": false
+    },
+    "6349447": {
+      "title": "产品经理拆解融资租赁：告别繁琐流程，数字化落地全面解析2026-03-06",
+      "url": "https://www.woshipm.com/pd/6349447.html",
+      "category": "pd",
+      "crawled_at": "2026-06-16T02:00:21.337202",
+      "summarized": false
+    },
+    "6413969": {
+      "title": "【万字长文】SpaceX二十四年，马斯克的五次“信仰之跃”",
+      "url": "https://www.woshipm.com/it/6413969.html",
+      "category": "it",
+      "crawled_at": "2026-06-16T02:00:40.370718",
+      "summarized": false
+    },
+    "6413802": {
+      "title": "小红书偷偷做了一个“老红书”",
+      "url": "https://www.woshipm.com/it/6413802.html",
+      "category": "it",
+      "crawled_at": "2026-06-16T02:00:42.776068",
+      "summarized": false
+    },
+    "6413632": {
+      "title": "酒店民宿仅退款，木鸟联合美团要掀桌子了？",
+      "url": "https://www.woshipm.com/it/6413632.html",
+      "category": "it",
+      "crawled_at": "2026-06-16T02:00:45.259107",
+      "summarized": false
+    },
+    "6414052": {
+      "title": "39%的电商商家，正困在AI的 “舒服危险区” 里",
+      "url": "https://www.woshipm.com/ai/6414052.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:11.766634",
+      "summarized": false
+    },
+    "6413914": {
+      "title": "AI生态之战打响：微信做入口，腾讯来托底",
+      "url": "https://www.woshipm.com/ai/6413914.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:15.323294",
+      "summarized": false
+    },
+    "6413908": {
+      "title": "AI版支付宝真的来了，想要邀请码的来！！！",
+      "url": "https://www.woshipm.com/ai/6413908.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:17.538105",
+      "summarized": false
+    },
+    "6413829": {
+      "title": "AI 能不能放手交给它，看你能不能检查它",
+      "url": "https://www.woshipm.com/ai/6413829.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:19.691053",
+      "summarized": false
+    },
+    "6413776": {
+      "title": "SaaS如何接入Agent：重新设计聊天框背后的工作流",
+      "url": "https://www.woshipm.com/ai/6413776.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:23.007130",
+      "summarized": false
+    },
+    "6413473": {
+      "title": "一个人加AI，真的等于一支团队吗？",
+      "url": "https://www.woshipm.com/ai/6413473.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:27.348844",
+      "summarized": false
+    },
+    "6412361": {
+      "title": "3A 分诊法：哪些交给 Automation，哪些做 Augmentation，哪些丢给 Agent",
+      "url": "https://www.woshipm.com/ai/6412361.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:29.716139",
+      "summarized": false
+    },
+    "6413801": {
+      "title": "AI互联网日报：支付宝测试AI版入口/Kimi用300个Agent组网/京东外卖开启614补贴战",
+      "url": "https://www.woshipm.com/ai/6413801.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:33.483228",
+      "summarized": false
+    },
+    "6413433": {
+      "title": "Manus事件之后，AI PM职业画像可能正在重写",
+      "url": "https://www.woshipm.com/ai/6413433.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:35.626231",
+      "summarized": false
+    },
+    "6413538": {
+      "title": "微信Agent开启测试，张小龙能否再赢一次？",
+      "url": "https://www.woshipm.com/ai/6413538.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:39.837668",
+      "summarized": false
+    },
+    "6413412": {
+      "title": "99.2% 的满分大模型，被用户一句“破玩意儿”干懵了",
+      "url": "https://www.woshipm.com/ai/6413412.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:43.664388",
+      "summarized": false
+    },
+    "6413061": {
+      "title": "当 AI 生成界面时，谁在守住设计意图？",
+      "url": "https://www.woshipm.com/ai/6413061.html",
+      "category": "ai",
+      "crawled_at": "2026-06-16T02:01:46.212126",
+      "summarized": false
+    },
+    "6413923": {
+      "title": "抖音、视频号、youtube  流量叙事有什么不同？",
+      "url": "https://www.woshipm.com/share/6413923.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:10.473568",
+      "summarized": false
+    },
+    "6413924": {
+      "title": "为什么你需要一块小鸿 SE？鸿蒙+星闪双芯开发板，解决国产AIoT开发所有痛点",
+      "url": "https://www.woshipm.com/share/6413924.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:14.009926",
+      "summarized": false
+    },
+    "6413916": {
+      "title": "反向吃播出圈：“难吃”的餐食，为何让人欲罢不能？",
+      "url": "https://www.woshipm.com/share/6413916.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:18.238900",
+      "summarized": false
+    },
+    "6413909": {
+      "title": "成本大涨，这届618商家怎么算账？",
+      "url": "https://www.woshipm.com/share/6413909.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:21.190080",
+      "summarized": false
+    },
+    "6413780": {
+      "title": "如何阅读一份行业研究报告",
+      "url": "https://www.woshipm.com/share/6413780.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:24.176172",
+      "summarized": false
+    },
+    "6413779": {
+      "title": "一边裁员承压，一边半年狂赚数亿，AI短剧到底谁在赚钱？",
+      "url": "https://www.woshipm.com/share/6413779.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:28.368234",
+      "summarized": false
+    },
+    "6413750": {
+      "title": "GLM 5.2：给国产模型追赶Anthropic 又提了一口气",
+      "url": "https://www.woshipm.com/share/6413750.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:32.393410",
+      "summarized": false
+    },
+    "6413744": {
+      "title": "两个月4款新产品，腾讯要发力AI互动内容了？",
+      "url": "https://www.woshipm.com/share/6413744.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:35.860532",
+      "summarized": false
+    },
+    "6277743": {
+      "title": "蚂蚁 Ling-1T 开源：基础语言模型、1T参数、MoE架构2025-10-10",
+      "url": "https://www.woshipm.com/share/6277743.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:43.873236",
+      "summarized": false
+    },
+    "6412249": {
+      "title": "AI最大的误区：懒人用来交付，高手用来思考",
+      "url": "https://www.woshipm.com/share/6412249.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:46.948063",
+      "summarized": false
+    },
+    "6395016": {
+      "title": "产品经理不会评估需求优先级？教你6个实用评估方法",
+      "url": "https://www.woshipm.com/share/6395016.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:50.934387",
+      "summarized": false
+    },
+    "6402736": {
+      "title": "想给App加个日程提醒？试试鸿蒙 Calendar Kit，超好用！",
+      "url": "https://www.woshipm.com/share/6402736.html",
+      "category": "share",
+      "crawled_at": "2026-06-16T02:02:53.582580",
+      "summarized": false
+    },
+    "6266016": {
+      "title": "月薪15K和25K产品经理的区别在哪？这三点决定你的薪资天花板",
+      "url": "https://www.woshipm.com/class/6266016.html",
+      "category": "class",
+      "crawled_at": "2026-06-16T02:03:18.634778",
+      "summarized": false
+    },
+    "6364836": {
+      "title": "AI时代，产品经理人才筛选决策逻辑揭密，注意这些新要求！2026-03-28",
+      "url": "https://www.woshipm.com/class/6364836.html",
+      "category": "class",
+      "crawled_at": "2026-06-16T02:03:21.829588",
+      "summarized": false
+    },
+    "6141897": {
+      "title": "家居建材新媒体内容营销何去何从",
+      "url": "https://www.woshipm.com/operate/6141897.html",
+      "category": "operate",
+      "crawled_at": "2026-06-16T02:03:44.242693",
+      "summarized": false
+    },
+    "6070324": {
+      "title": "产品培训的“四大秘籍”：讲问题、讲案例、讲差异、讲卖点2024-06-17",
+      "url": "https://www.woshipm.com/operate/6070324.html",
+      "category": "operate",
+      "crawled_at": "2026-06-16T02:03:47.370558",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-15T02:03:36.007135",
+  "last_crawl": "2026-06-16T02:04:08.551869",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
