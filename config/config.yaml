@@ -41,7 +41,7 @@ git:
 
 # 定时任务配置
 schedule:
-  enabled: true
+  enabled: false  # 已关闭
   cron: "0 2 * * *"  # 每天凌晨2点执行
   timezone: "Asia/Shanghai"
 

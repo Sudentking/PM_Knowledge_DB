@@ -5158,9 +5158,282 @@
       "category": "operate",
       "crawled_at": "2026-06-16T02:03:47.370558",
       "summarized": false
+    },
+    "6414148": {
+      "title": "【人员】花名册功能设计：告别散页管理，人员导入、同步、统计一个入口全搞定",
+      "url": "https://www.woshipm.com/pd/6414148.html",
+      "category": "pd",
+      "crawled_at": "2026-06-17T02:00:07.153539",
+      "summarized": false
+    },
+    "6090137": {
+      "title": "公募杂谈系列：公募基金证券出借、转融通估值核算",
+      "url": "https://www.woshipm.com/pd/6090137.html",
+      "category": "pd",
+      "crawled_at": "2026-06-17T02:00:19.341441",
+      "summarized": false
+    },
+    "6145082": {
+      "title": "别拍脑袋定产品方向！3步教你快速挖出竞争力！2024-11-25",
+      "url": "https://www.woshipm.com/pd/6145082.html",
+      "category": "pd",
+      "crawled_at": "2026-06-17T02:00:21.802219",
+      "summarized": false
+    },
+    "6414270": {
+      "title": "谁在小红书看世界杯",
+      "url": "https://www.woshipm.com/it/6414270.html",
+      "category": "it",
+      "crawled_at": "2026-06-17T02:00:36.182447",
+      "summarized": false
+    },
+    "6414219": {
+      "title": "支付宝的AI算盘：入口可以输，支付不能丢",
+      "url": "https://www.woshipm.com/it/6414219.html",
+      "category": "it",
+      "crawled_at": "2026-06-17T02:00:40.141869",
+      "summarized": false
+    },
+    "6292050": {
+      "title": "饿了么为什么要改名？一个18年品牌的”主动消失”背后",
+      "url": "https://www.woshipm.com/it/6292050.html",
+      "category": "it",
+      "crawled_at": "2026-06-17T02:00:47.668119",
+      "summarized": false
+    },
+    "6244604": {
+      "title": "得物与小红书，互相抄作业2025-07-22",
+      "url": "https://www.woshipm.com/it/6244604.html",
+      "category": "it",
+      "crawled_at": "2026-06-17T02:00:50.820902",
+      "summarized": false
+    },
+    "6201784": {
+      "title": "“参数王者、开源期货”，Meta这波Llama 4赢了吗？",
+      "url": "https://www.woshipm.com/ai/6201784.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:11.889487",
+      "summarized": false
+    },
+    "6283850": {
+      "title": "产品经理的A/B测试与AI实验全方位指南2025-10-27",
+      "url": "https://www.woshipm.com/ai/6283850.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:15.442081",
+      "summarized": false
+    },
+    "6391297": {
+      "title": "AI 产品经理看完 Google 这场发布会，应该睡不着",
+      "url": "https://www.woshipm.com/ai/6391297.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:18.085572",
+      "summarized": false
+    },
+    "6321657": {
+      "title": "AI产品经理与技术团队协作指南：需求沟通、方案评审、进度同步的核心技巧",
+      "url": "https://www.woshipm.com/ai/6321657.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:21.952612",
+      "summarized": false
+    },
+    "6327769": {
+      "title": "a16z 最新洞察：具身智能从 Demo 到落地，必须跨越的5个鸿沟",
+      "url": "https://www.woshipm.com/ai/6327769.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:24.429704",
+      "summarized": false
+    },
+    "6414710": {
+      "title": "微软CEO判断：AI时代，要经营“Token资本”",
+      "url": "https://www.woshipm.com/ai/6414710.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:31.199743",
+      "summarized": false
+    },
+    "6414690": {
+      "title": "AI 版支付宝：有什么不一样？",
+      "url": "https://www.woshipm.com/ai/6414690.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:33.377147",
+      "summarized": false
+    },
+    "6414683": {
+      "title": "产品狗的胡言乱语：记录一次完整的vibe coding项目，花费8小时和30块钱的西瓜",
+      "url": "https://www.woshipm.com/ai/6414683.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:36.031298",
+      "summarized": false
+    },
+    "6414675": {
+      "title": "产品经理手搓配图工具：三次迭代，找图从 30 分钟压到 5 分钟",
+      "url": "https://www.woshipm.com/ai/6414675.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:38.842853",
+      "summarized": false
+    },
+    "6414116": {
+      "title": "AI没法直出UI？GPT+Figma这样搭才管用！",
+      "url": "https://www.woshipm.com/ai/6414116.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:41.740425",
+      "summarized": false
+    },
+    "6414552": {
+      "title": "为什么「一句话生成」的应用大多活不过 20 分钟？",
+      "url": "https://www.woshipm.com/ai/6414552.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:45.973903",
+      "summarized": false
+    },
+    "6414536": {
+      "title": "AI 工程的第四次跃迁：从 Prompt、Context、Harness 到 Loop Engineering",
+      "url": "https://www.woshipm.com/ai/6414536.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:49.906212",
+      "summarized": false
+    },
+    "6413756": {
+      "title": "2026 AI 行业叙事：定义未来",
+      "url": "https://www.woshipm.com/ai/6413756.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:53.906175",
+      "summarized": false
+    },
+    "6409477": {
+      "title": "2026年AI编程助手终极对决：谁才是程序员真爱？",
+      "url": "https://www.woshipm.com/ai/6409477.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:01:57.191629",
+      "summarized": false
+    },
+    "6414512": {
+      "title": "CC Switch：一个管七个 AI 编程 CLI 的桌面控制台",
+      "url": "https://www.woshipm.com/ai/6414512.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:02:00.340596",
+      "summarized": false
+    },
+    "6414464": {
+      "title": "全球最强AI模型被禁用始末：魔幻事件背后的「趋势」",
+      "url": "https://www.woshipm.com/ai/6414464.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:02:03.334674",
+      "summarized": false
+    },
+    "6414433": {
+      "title": "AI产品经理视角：打造”机器竞争力”的产品架构与多态内容策略",
+      "url": "https://www.woshipm.com/ai/6414433.html",
+      "category": "ai",
+      "crawled_at": "2026-06-17T02:02:06.021485",
+      "summarized": false
+    },
+    "6414800": {
+      "title": "AI如何真正扎根业务？实战派拆解业务落地与产品创新的真实路径——”对话AI行动派”西安站回顾",
+      "url": "https://www.woshipm.com/share/6414800.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:25.637774",
+      "summarized": false
+    },
+    "6414716": {
+      "title": "越涨价越亏，共享充电宝的困局为何无解？",
+      "url": "https://www.woshipm.com/share/6414716.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:28.444158",
+      "summarized": false
+    },
+    "6414691": {
+      "title": "美加墨世界杯营销战：高频、潮流、硬核三类品牌的博弈",
+      "url": "https://www.woshipm.com/share/6414691.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:31.412789",
+      "summarized": false
+    },
+    "6414687": {
+      "title": "亏损换增长的游戏，品牌不想玩下去了",
+      "url": "https://www.woshipm.com/share/6414687.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:34.916545",
+      "summarized": false
+    },
+    "6414636": {
+      "title": "Axure教程：用中继器实现柱状图元件",
+      "url": "https://www.woshipm.com/share/6414636.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:37.801033",
+      "summarized": false
+    },
+    "6414443": {
+      "title": "5款小众硬核背词产品深度拆解：从设计逻辑看懂语言工具的赛道差异化突围",
+      "url": "https://www.woshipm.com/share/6414443.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:41.882087",
+      "summarized": false
+    },
+    "6082908": {
+      "title": "写给广告主：短剧营销到底是什么？哪些坑？怎么投？2024-07-16",
+      "url": "https://www.woshipm.com/share/6082908.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:48.508777",
+      "summarized": false
+    },
+    "6345675": {
+      "title": "有产品运营，产品经理还要数据分析？",
+      "url": "https://www.woshipm.com/share/6345675.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:52.428283",
+      "summarized": false
+    },
+    "6361390": {
+      "title": "AI时代，Marketing正在成为最吃香的工作",
+      "url": "https://www.woshipm.com/share/6361390.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:56.158641",
+      "summarized": false
+    },
+    "6338680": {
+      "title": "马化腾连续两次年会发话，微信短剧能否超越红果？",
+      "url": "https://www.woshipm.com/share/6338680.html",
+      "category": "share",
+      "crawled_at": "2026-06-17T02:02:58.886010",
+      "summarized": false
+    },
+    "6276014": {
+      "title": "涨薪 30%！转型 AI 产品经理的正确方法，产品人直接复制！",
+      "url": "https://www.woshipm.com/class/6276014.html",
+      "category": "class",
+      "crawled_at": "2026-06-17T02:03:22.801128",
+      "summarized": false
+    },
+    "6209977": {
+      "title": "AI产品经理必备3大硬实力，第二个80%的人都没有！2025-04-25",
+      "url": "https://www.woshipm.com/class/6209977.html",
+      "category": "class",
+      "crawled_at": "2026-06-17T02:03:26.757757",
+      "summarized": false
+    },
+    "6082405": {
+      "title": "通过MGM分销裂变实现70天获客20万人",
+      "url": "https://www.woshipm.com/operate/6082405.html",
+      "category": "operate",
+      "crawled_at": "2026-06-17T02:03:46.552121",
+      "summarized": false
+    },
+    "6274865": {
+      "title": "运营了四年社群后，我悟了！2025-09-28",
+      "url": "https://www.woshipm.com/operate/6274865.html",
+      "category": "operate",
+      "crawled_at": "2026-06-17T02:03:50.193454",
+      "summarized": false
+    },
+    "6414206": {
+      "title": "「退一件，到底该退多少钱？」——优惠分摊、券生命周期与大促交付",
+      "url": "https://www.woshipm.com/operate/6414206.html",
+      "category": "operate",
+      "crawled_at": "2026-06-17T02:03:58.035866",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-16T02:04:08.551869",
+  "last_crawl": "2026-06-17T02:04:16.306138",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
