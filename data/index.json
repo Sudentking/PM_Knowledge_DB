@@ -5431,9 +5431,254 @@
       "category": "operate",
       "crawled_at": "2026-06-17T02:03:58.035866",
       "summarized": false
+    },
+    "6415091": {
+      "title": "产品评审不是绊脚石：基于IPD的研发管控体系拆解",
+      "url": "https://www.woshipm.com/pd/6415091.html",
+      "category": "pd",
+      "crawled_at": "2026-06-18T02:00:08.375569",
+      "summarized": false
+    },
+    "6415036": {
+      "title": "一个验证码背后的产品逻辑：短信风控全链路拆解",
+      "url": "https://www.woshipm.com/pd/6415036.html",
+      "category": "pd",
+      "crawled_at": "2026-06-18T02:00:11.188886",
+      "summarized": false
+    },
+    "6414899": {
+      "title": "产品经理的AI焦虑：从手搓城堡到商业闭环",
+      "url": "https://www.woshipm.com/pd/6414899.html",
+      "category": "pd",
+      "crawled_at": "2026-06-18T02:00:13.417691",
+      "summarized": false
+    },
+    "6415293": {
+      "title": "从修驴蹄到砍树：解压短视频的心理学拆解",
+      "url": "https://www.woshipm.com/it/6415293.html",
+      "category": "it",
+      "crawled_at": "2026-06-18T02:00:34.802706",
+      "summarized": false
+    },
+    "6415097": {
+      "title": "短剧三年，ROI的完胜：付费、免费与AI的成本革命",
+      "url": "https://www.woshipm.com/it/6415097.html",
+      "category": "it",
+      "crawled_at": "2026-06-18T02:00:37.961121",
+      "summarized": false
+    },
+    "6304982": {
+      "title": "Sora的AI TikTok梦迅速破产了2025-12-10",
+      "url": "https://www.woshipm.com/it/6304982.html",
+      "category": "it",
+      "crawled_at": "2026-06-18T02:00:49.945802",
+      "summarized": false
+    },
+    "6415241": {
+      "title": "SpaceX 600亿美元收购Cursor：AI时代的软件生产入口意味着什么？",
+      "url": "https://www.woshipm.com/ai/6415241.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:05.628736",
+      "summarized": false
+    },
+    "6415188": {
+      "title": "AI模型“断供”风险真实存在？企业应如何构建多模型架构",
+      "url": "https://www.woshipm.com/ai/6415188.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:08.842020",
+      "summarized": false
+    },
+    "6415145": {
+      "title": "把产品直觉驯化成 AI 的“操作系统”：B 端 PM 的 Vibe Coding Skill 培育手记",
+      "url": "https://www.woshipm.com/ai/6415145.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:12.246813",
+      "summarized": false
+    },
+    "6415114": {
+      "title": "一人公司、全栈人才：AI正在重写你的岗位说明书",
+      "url": "https://www.woshipm.com/ai/6415114.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:15.802773",
+      "summarized": false
+    },
+    "6415148": {
+      "title": "大厂AI大战618：提效还是噱头？",
+      "url": "https://www.woshipm.com/ai/6415148.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:19.062785",
+      "summarized": false
+    },
+    "6415146": {
+      "title": "实测AI版支付宝：半成品阿宝，藏着支付宝的防御性变革",
+      "url": "https://www.woshipm.com/ai/6415146.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:21.158772",
+      "summarized": false
+    },
+    "6414967": {
+      "title": "CowAgent对接DeepSeek V4空响应排查：一个/v1路径引发的血案",
+      "url": "https://www.woshipm.com/ai/6414967.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:24.129164",
+      "summarized": false
+    },
+    "6415096": {
+      "title": "AI互联网日报：字节AI转向企业服务、智谱GLM-5.2开源、腾讯网盘预告AI记忆资产、ChatGPT份额跌破50%",
+      "url": "https://www.woshipm.com/ai/6415096.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:26.832235",
+      "summarized": false
+    },
+    "6415093": {
+      "title": "超级App的AI入口争夺战：支付宝、微信如何重塑服务生态",
+      "url": "https://www.woshipm.com/ai/6415093.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:29.222613",
+      "summarized": false
+    },
+    "6415090": {
+      "title": "AI产品面试必答：Prompt调优的五步底层逻辑",
+      "url": "https://www.woshipm.com/ai/6415090.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:33.128743",
+      "summarized": false
+    },
+    "6414965": {
+      "title": "意图驱动：让产品承担”意图 → 步骤”的翻译，而不是用户",
+      "url": "https://www.woshipm.com/ai/6414965.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:36.154616",
+      "summarized": false
+    },
+    "6414816": {
+      "title": "AI Agent省Token攻略：四个架构级决策，帮你省下60%成本",
+      "url": "https://www.woshipm.com/ai/6414816.html",
+      "category": "ai",
+      "crawled_at": "2026-06-18T02:01:39.909526",
+      "summarized": false
+    },
+    "6191865": {
+      "title": "【HarmonyOS TechTalk 30】一镜到底、智能填充、悬停适配开发实践2025-03-09",
+      "url": "https://www.woshipm.com/share/6191865.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:02.279305",
+      "summarized": false
+    },
+    "6385569": {
+      "title": "微信免费发了1亿Token，你的AI小程序还没立项？",
+      "url": "https://www.woshipm.com/share/6385569.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:05.963240",
+      "summarized": false
+    },
+    "6339292": {
+      "title": "3天涨粉超200万，她成了抖音开年“涨粉王”",
+      "url": "https://www.woshipm.com/share/6339292.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:08.677877",
+      "summarized": false
+    },
+    "6349277": {
+      "title": "天命人张建中",
+      "url": "https://www.woshipm.com/share/6349277.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:11.241637",
+      "summarized": false
+    },
+    "6387140": {
+      "title": "最近刷屏的Flipbook，想把互联网彻底变成实时生成的无限世界",
+      "url": "https://www.woshipm.com/share/6387140.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:13.667069",
+      "summarized": false
+    },
+    "6415244": {
+      "title": "小红书搜索词投放：不只是ROI，更是品牌护城河",
+      "url": "https://www.woshipm.com/share/6415244.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:20.959264",
+      "summarized": false
+    },
+    "6415240": {
+      "title": "支付宝“阿宝”与微信“AI专属卡”：支付巨头的AI入口之战",
+      "url": "https://www.woshipm.com/share/6415240.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:23.303434",
+      "summarized": false
+    },
+    "6415209": {
+      "title": "“阿宝”来了：支付宝如何用AI重构10亿级App？",
+      "url": "https://www.woshipm.com/share/6415209.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:26.820733",
+      "summarized": false
+    },
+    "6415208": {
+      "title": "有人置身钉外，但AI办公不得不战",
+      "url": "https://www.woshipm.com/share/6415208.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:29.408758",
+      "summarized": false
+    },
+    "6415199": {
+      "title": "被起诉、被炮轰，小红书如何用AI重建社区信任？",
+      "url": "https://www.woshipm.com/share/6415199.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:33.001714",
+      "summarized": false
+    },
+    "6415176": {
+      "title": "微信支付宝联手反击豆包：把小程序做成Skill，存量战争打响",
+      "url": "https://www.woshipm.com/share/6415176.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:35.448735",
+      "summarized": false
+    },
+    "6415089": {
+      "title": "置身钉外：一名B端产品经理对钉钉AI战略的冷思考",
+      "url": "https://www.woshipm.com/share/6415089.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:39.592042",
+      "summarized": false
+    },
+    "6414833": {
+      "title": "5 家千亿 AI产品增长打法拆解：从商业定价到生态打法",
+      "url": "https://www.woshipm.com/share/6414833.html",
+      "category": "share",
+      "crawled_at": "2026-06-18T02:02:43.099203",
+      "summarized": false
+    },
+    "6414387": {
+      "title": "2026想转型AI产品经理？这些AI实践你需要先了解！",
+      "url": "https://www.woshipm.com/class/6414387.html",
+      "category": "class",
+      "crawled_at": "2026-06-18T02:03:01.570766",
+      "summarized": false
+    },
+    "6255525": {
+      "title": "面试被拒N次，0经验小白如何拿到AI产品经理offer？",
+      "url": "https://www.woshipm.com/class/6255525.html",
+      "category": "class",
+      "crawled_at": "2026-06-18T02:03:14.878979",
+      "summarized": false
+    },
+    "6233083": {
+      "title": "AI时代，从需求到产品，产品思维该如何应用？2025-06-21",
+      "url": "https://www.woshipm.com/class/6233083.html",
+      "category": "class",
+      "crawled_at": "2026-06-18T02:03:18.835185",
+      "summarized": false
+    },
+    "6249264": {
+      "title": "玩转「超级用户计划」8▎文档体系：分类、明细与要点指南2025-08-01",
+      "url": "https://www.woshipm.com/operate/6249264.html",
+      "category": "operate",
+      "crawled_at": "2026-06-18T02:03:36.581827",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-17T02:04:16.306138",
+  "last_crawl": "2026-06-18T02:03:51.578015",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
