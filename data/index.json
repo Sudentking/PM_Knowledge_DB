@@ -5676,9 +5676,380 @@
       "category": "operate",
       "crawled_at": "2026-06-18T02:03:36.581827",
       "summarized": false
+    },
+    "6416175": {
+      "title": "人员数据导入的工程化设计：模板、校验与外部数据源",
+      "url": "https://www.woshipm.com/pd/6416175.html",
+      "category": "pd",
+      "crawled_at": "2026-06-20T02:00:09.441952",
+      "summarized": false
+    },
+    "6415389": {
+      "title": "人员跨客户转移易出错？这个审批闭环设计把风险降到冰点",
+      "url": "https://www.woshipm.com/pd/6415389.html",
+      "category": "pd",
+      "crawled_at": "2026-06-20T02:00:12.098456",
+      "summarized": false
+    },
+    "6086736": {
+      "title": "收银台大讲究",
+      "url": "https://www.woshipm.com/pd/6086736.html",
+      "category": "pd",
+      "crawled_at": "2026-06-20T02:00:27.628034",
+      "summarized": false
+    },
+    "6240241": {
+      "title": "实时表单的演进路径2025-07-09",
+      "url": "https://www.woshipm.com/pd/6240241.html",
+      "category": "pd",
+      "crawled_at": "2026-06-20T02:00:31.314610",
+      "summarized": false
+    },
+    "6415648": {
+      "title": "GitHub 12万星，世界杯球迷为何集体涌入这个开源项目？",
+      "url": "https://www.woshipm.com/it/6415648.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:00:43.435029",
+      "summarized": false
+    },
+    "6415595": {
+      "title": "未成年人正在被算法围猎：从英国禁令看注意力经济的剥削真相",
+      "url": "https://www.woshipm.com/it/6415595.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:00:47.606556",
+      "summarized": false
+    },
+    "6415549": {
+      "title": "社交产品的投资逻辑：从关系发生到商业闭环",
+      "url": "https://www.woshipm.com/it/6415549.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:00:51.631888",
+      "summarized": false
+    },
+    "6415495": {
+      "title": "美团、淘宝、京东外卖的合规博弈：三条路，同一个结局",
+      "url": "https://www.woshipm.com/it/6415495.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:00:55.418190",
+      "summarized": false
+    },
+    "6114567": {
+      "title": "OpenAI 凌晨发布 o1 系列推理模型的两个 o1-preview 以及 o1-mini，旨在真正像人类一样思考",
+      "url": "https://www.woshipm.com/it/6114567.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:01:11.853478",
+      "summarized": false
+    },
+    "6141335": {
+      "title": "取代房地产，数字经济崛起，数据资产入表助力数字经济加速跑2024-11-17",
+      "url": "https://www.woshipm.com/it/6141335.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:01:14.176058",
+      "summarized": false
+    },
+    "6358005": {
+      "title": "会议纪要是个伪需求：AI录音笔的真实用户可能根本不开会",
+      "url": "https://www.woshipm.com/it/6358005.html",
+      "category": "it",
+      "crawled_at": "2026-06-20T02:01:18.050677",
+      "summarized": false
+    },
+    "6416141": {
+      "title": "从Prompt到World Model：大厂RL后训练工程师眼中的AI工程六层演化",
+      "url": "https://www.woshipm.com/ai/6416141.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:29.901612",
+      "summarized": false
+    },
+    "6416153": {
+      "title": "AI商业化的终局：健身房、云服务还是结果收费？",
+      "url": "https://www.woshipm.com/ai/6416153.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:32.882867",
+      "summarized": false
+    },
+    "6416113": {
+      "title": "大模型标注平台产品设计：那些容易忽略的细节（并发、快捷键、AI打分）",
+      "url": "https://www.woshipm.com/ai/6416113.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:35.521491",
+      "summarized": false
+    },
+    "6415463": {
+      "title": "手把手教你给AI写需求文档——从spec到skill，一次跑通，终身复用",
+      "url": "https://www.woshipm.com/ai/6415463.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:39.603940",
+      "summarized": false
+    },
+    "6416268": {
+      "title": "微信AI支付新动作：将信任与效率交给Agent",
+      "url": "https://www.woshipm.com/ai/6416268.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:42.236971",
+      "summarized": false
+    },
+    "6416224": {
+      "title": "AI互联网日报：DeepSeek上线识图功能/京东无人机进村配送提速/OpenAI 给企业 AI 加控费/华为 Wi-Fi 7 专利费率公开",
+      "url": "https://www.woshipm.com/ai/6416224.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:45.117560",
+      "summarized": false
+    },
+    "6412559": {
+      "title": "比尔·盖茨女儿创业：150万人用的AI购物助手Phia，如何让用户少做无效比较",
+      "url": "https://www.woshipm.com/ai/6412559.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:48.116906",
+      "summarized": false
+    },
+    "6416011": {
+      "title": "GEO服务乱象调查：9.9元买AI推荐位，谁在收割企业焦虑？",
+      "url": "https://www.woshipm.com/ai/6416011.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:51.343118",
+      "summarized": false
+    },
+    "6416007": {
+      "title": "苹果和OpenAI联手，但真正的变革是“无App手机”的四个进化阶段",
+      "url": "https://www.woshipm.com/ai/6416007.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:54.049287",
+      "summarized": false
+    },
+    "6415940": {
+      "title": "618数据揭秘：AI如何让“一人公司”在淘宝爆发",
+      "url": "https://www.woshipm.com/ai/6415940.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:01:56.870442",
+      "summarized": false
+    },
+    "6415905": {
+      "title": "给老板和求职者的FDE岗位6个判断：别神化也别错过",
+      "url": "https://www.woshipm.com/ai/6415905.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:02:01.086243",
+      "summarized": false
+    },
+    "6415852": {
+      "title": "我用AI搭了一条内容流水线：日更3平台，每天仅投入2小时",
+      "url": "https://www.woshipm.com/ai/6415852.html",
+      "category": "ai",
+      "crawled_at": "2026-06-20T02:02:04.218475",
+      "summarized": false
+    },
+    "6416065": {
+      "title": "AI时代产品经理的职责升级：六大职能新解",
+      "url": "https://www.woshipm.com/share/6416065.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:28.032823",
+      "summarized": false
+    },
+    "6416185": {
+      "title": "Google ARD：agent时代的搜索引擎困局与新变量",
+      "url": "https://www.woshipm.com/share/6416185.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:31.285046",
+      "summarized": false
+    },
+    "6415861": {
+      "title": "零食品牌逃离流量苦役：从冲规模到做复购",
+      "url": "https://www.woshipm.com/share/6415861.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:33.775053",
+      "summarized": false
+    },
+    "6415621": {
+      "title": "流量红利消退后，小红书博主如何构建可持续的商业价值？",
+      "url": "https://www.woshipm.com/share/6415621.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:37.821832",
+      "summarized": false
+    },
+    "6109580": {
+      "title": "为什么领导这么喜欢开会？",
+      "url": "https://www.woshipm.com/share/6109580.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:48.413909",
+      "summarized": false
+    },
+    "6332708": {
+      "title": "搭建一个云端Skills系统，随时随地记录TikTok爆款",
+      "url": "https://www.woshipm.com/share/6332708.html",
+      "category": "share",
+      "crawled_at": "2026-06-20T02:02:51.730143",
+      "summarized": false
+    },
+    "6415850": {
+      "title": "公众号算法推荐，正在毁掉你的订阅列表？",
+      "url": "https://www.woshipm.com/operate/6415850.html",
+      "category": "operate",
+      "crawled_at": "2026-06-20T02:03:25.069160",
+      "summarized": false
+    },
+    "6296619": {
+      "title": "从“项目”到“产品”：我在智慧城市赛道，熬了六年才明白的转型之道",
+      "url": "https://www.woshipm.com/pd/6296619.html",
+      "category": "pd",
+      "crawled_at": "2026-06-21T02:00:20.364717",
+      "summarized": false
+    },
+    "6105609": {
+      "title": "万字长文教你产品升级——实战篇2024-08-29",
+      "url": "https://www.woshipm.com/pd/6105609.html",
+      "category": "pd",
+      "crawled_at": "2026-06-21T02:00:23.155062",
+      "summarized": false
+    },
+    "6416765": {
+      "title": "涌入Fab厂的年轻人：身在流水线，心向风口",
+      "url": "https://www.woshipm.com/it/6416765.html",
+      "category": "it",
+      "crawled_at": "2026-06-21T02:00:36.351689",
+      "summarized": false
+    },
+    "6166426": {
+      "title": "周亚辉投资笔记：机器人时代的社会结构模型与十年后中国首富预测",
+      "url": "https://www.woshipm.com/it/6166426.html",
+      "category": "it",
+      "crawled_at": "2026-06-21T02:00:49.759507",
+      "summarized": false
+    },
+    "6119793": {
+      "title": "民宿国庆档，木途美如何布局流量争夺战？2024-09-25",
+      "url": "https://www.woshipm.com/it/6119793.html",
+      "category": "it",
+      "crawled_at": "2026-06-21T02:00:51.980776",
+      "summarized": false
+    },
+    "6416769": {
+      "title": "阿宝想让用户“开口说话”，微信想让AI“无处不在”",
+      "url": "https://www.woshipm.com/ai/6416769.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:04.847879",
+      "summarized": false
+    },
+    "6416768": {
+      "title": "AI冲击SaaS，为什么网络安全是例外？",
+      "url": "https://www.woshipm.com/ai/6416768.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:07.887446",
+      "summarized": false
+    },
+    "6416728": {
+      "title": "AI圈突然都在聊Loop Engineering，我想先泼点冷水",
+      "url": "https://www.woshipm.com/ai/6416728.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:10.537854",
+      "summarized": false
+    },
+    "6412575": {
+      "title": "Cluely：那个帮别人“作弊”的 AI 公司，为什么被 a16z 投了",
+      "url": "https://www.woshipm.com/ai/6412575.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:13.961572",
+      "summarized": false
+    },
+    "6416320": {
+      "title": "别再什么都塞进 CLAUDE.md 了——Anthropic 官方发布的七种自定义方式决策框架",
+      "url": "https://www.woshipm.com/ai/6416320.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:16.605172",
+      "summarized": false
+    },
+    "6327159": {
+      "title": "“观止KANO”：AI时代的需求洞察新范式——将KANO模型深度融入结构化场景分析",
+      "url": "https://www.woshipm.com/ai/6327159.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:28.161574",
+      "summarized": false
+    },
+    "6304829": {
+      "title": "AI幼教产品的”友好性”设计指南2025-12-10",
+      "url": "https://www.woshipm.com/ai/6304829.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:32.003616",
+      "summarized": false
+    },
+    "6389762": {
+      "title": "产品的未来",
+      "url": "https://www.woshipm.com/ai/6389762.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:34.725810",
+      "summarized": false
+    },
+    "6389642": {
+      "title": "豆包收费后，用户和 AI 的关系要重写一遍了",
+      "url": "https://www.woshipm.com/ai/6389642.html",
+      "category": "ai",
+      "crawled_at": "2026-06-21T02:01:38.554265",
+      "summarized": false
+    },
+    "6416767": {
+      "title": "百度网盘迎来“重磅级”对手，腾讯网盘要来了",
+      "url": "https://www.woshipm.com/share/6416767.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:01:54.044449",
+      "summarized": false
+    },
+    "6416766": {
+      "title": "“AI版支付宝”翻车？第一天就算错账了",
+      "url": "https://www.woshipm.com/share/6416766.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:01:56.586492",
+      "summarized": false
+    },
+    "6416764": {
+      "title": "一边冲刺上市、一边加速破圈，小红书“摊牌”了",
+      "url": "https://www.woshipm.com/share/6416764.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:02:00.907601",
+      "summarized": false
+    },
+    "6416424": {
+      "title": "用AI编程打造禅意木鱼：一次人机协作的产品创新之旅",
+      "url": "https://www.woshipm.com/share/6416424.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:02:04.972398",
+      "summarized": false
+    },
+    "6416225": {
+      "title": "Toybox、MakerWorld 与 Snapmaker：3D打印社区的三种未来可能性",
+      "url": "https://www.woshipm.com/share/6416225.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:02:08.216588",
+      "summarized": false
+    },
+    "6355935": {
+      "title": "微信观察：公众号文章分享后，不再显示账号头像",
+      "url": "https://www.woshipm.com/share/6355935.html",
+      "category": "share",
+      "crawled_at": "2026-06-21T02:02:23.963611",
+      "summarized": false
+    },
+    "6095768": {
+      "title": "做B端没人带，成长慢涨薪难，产品经理的出路在哪里？",
+      "url": "https://www.woshipm.com/class/6095768.html",
+      "category": "class",
+      "crawled_at": "2026-06-21T02:02:52.295459",
+      "summarized": false
+    },
+    "6175720": {
+      "title": "ToB人必看！一个公式讲清如何提升B端产品价值（上）",
+      "url": "https://www.woshipm.com/operate/6175720.html",
+      "category": "operate",
+      "crawled_at": "2026-06-21T02:03:07.498857",
+      "summarized": false
+    },
+    "6181622": {
+      "title": "如何用投资思维打造客户服务，创造长期回报？2025-02-19",
+      "url": "https://www.woshipm.com/operate/6181622.html",
+      "category": "operate",
+      "crawled_at": "2026-06-21T02:03:10.455241",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-18T02:03:51.578015",
+  "last_crawl": "2026-06-21T02:03:25.562113",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
