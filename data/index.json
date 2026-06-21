@@ -6047,9 +6047,233 @@
       "category": "operate",
       "crawled_at": "2026-06-21T02:03:10.455241",
       "summarized": false
+    },
+    "6337731": {
+      "title": "如何做好B端产品菜单设计",
+      "url": "https://www.woshipm.com/pd/6337731.html",
+      "category": "pd",
+      "crawled_at": "2026-06-22T02:00:12.603061",
+      "summarized": false
+    },
+    "6238900": {
+      "title": "从0构建大型AI推荐系统：召回策略产品设计​2025-07-08",
+      "url": "https://www.woshipm.com/pd/6238900.html",
+      "category": "pd",
+      "crawled_at": "2026-06-22T02:00:16.269458",
+      "summarized": false
+    },
+    "6417090": {
+      "title": "小红书和它的IPO故事，你还愿意听吗？",
+      "url": "https://www.woshipm.com/it/6417090.html",
+      "category": "it",
+      "crawled_at": "2026-06-22T02:00:37.374189",
+      "summarized": false
+    },
+    "6198623": {
+      "title": "解锁IT项目管理中人力资源管理的密码",
+      "url": "https://www.woshipm.com/it/6198623.html",
+      "category": "it",
+      "crawled_at": "2026-06-22T02:00:43.720734",
+      "summarized": false
+    },
+    "6078554": {
+      "title": "即时零售再升级，美团、阿里、抖音、京东激战流量入口2024-07-05",
+      "url": "https://www.woshipm.com/it/6078554.html",
+      "category": "it",
+      "crawled_at": "2026-06-22T02:00:46.070588",
+      "summarized": false
+    },
+    "6358127": {
+      "title": "第一批移植AI“器官”的人，正在产生排异反应",
+      "url": "https://www.woshipm.com/it/6358127.html",
+      "category": "it",
+      "crawled_at": "2026-06-22T02:00:48.733987",
+      "summarized": false
+    },
+    "6417380": {
+      "title": "豆包首战618，不如董宇辉",
+      "url": "https://www.woshipm.com/ai/6417380.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:04.791209",
+      "summarized": false
+    },
+    "6417378": {
+      "title": "AI重做行业，但最危险的不是失业，而是经验贬值",
+      "url": "https://www.woshipm.com/ai/6417378.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:07.964238",
+      "summarized": false
+    },
+    "6416703": {
+      "title": "看了10篇Transformer文章都不懂？试试这个相亲版解释",
+      "url": "https://www.woshipm.com/ai/6416703.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:10.855734",
+      "summarized": false
+    },
+    "6416553": {
+      "title": "你还在手动喂AI吗？2026年最值得了解的Loop Engineering",
+      "url": "https://www.woshipm.com/ai/6416553.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:14.169347",
+      "summarized": false
+    },
+    "6416277": {
+      "title": "SaaS+AI vs AI原生SaaS：三条路径决定了你的命运",
+      "url": "https://www.woshipm.com/ai/6416277.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:18.195350",
+      "summarized": false
+    },
+    "6416541": {
+      "title": "我如何用AI生成SQL指标：从准备到验证的实战记录",
+      "url": "https://www.woshipm.com/ai/6416541.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:21.471505",
+      "summarized": false
+    },
+    "6417088": {
+      "title": "支付宝AI助理“阿宝”实测：能打车点外卖，但理财分析有点鸡肋",
+      "url": "https://www.woshipm.com/ai/6417088.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:23.840293",
+      "summarized": false
+    },
+    "6417062": {
+      "title": "花钱雇AI当同事：律师、跨境电商、投资人的真实体验",
+      "url": "https://www.woshipm.com/ai/6417062.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:26.847798",
+      "summarized": false
+    },
+    "6416674": {
+      "title": "代码即界面：从SpatialClaw看AI Agent的下一个十年",
+      "url": "https://www.woshipm.com/ai/6416674.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:29.850709",
+      "summarized": false
+    },
+    "6289632": {
+      "title": "用知识图谱+RAG驾驭长文本文档（政策/法规等）智能问答",
+      "url": "https://www.woshipm.com/ai/6289632.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:41.430841",
+      "summarized": false
+    },
+    "6258984": {
+      "title": "AI幻觉的终极解决方案？剖析MCP为何比RAG更可靠2025-08-25",
+      "url": "https://www.woshipm.com/ai/6258984.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:45.701755",
+      "summarized": false
+    },
+    "6409572": {
+      "title": "AI要自己造AI了？Anthropic最新暴论，到底有多真？",
+      "url": "https://www.woshipm.com/ai/6409572.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:49.587586",
+      "summarized": false
+    },
+    "6365692": {
+      "title": "AI医疗问答项目系列之意图识别",
+      "url": "https://www.woshipm.com/ai/6365692.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:53.423886",
+      "summarized": false
+    },
+    "6375325": {
+      "title": "我用 OpenClaw 搭了 3 个 AI 助手，终于不用一个人干所有活了",
+      "url": "https://www.woshipm.com/ai/6375325.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:01:57.544707",
+      "summarized": false
+    },
+    "6319295": {
+      "title": "为何B端AI落地，卡在“打工人不想背锅”？",
+      "url": "https://www.woshipm.com/ai/6319295.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:02:00.010764",
+      "summarized": false
+    },
+    "6365522": {
+      "title": "工作流、Agent、智能体，究竟都是个啥？",
+      "url": "https://www.woshipm.com/ai/6365522.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:02:04.071090",
+      "summarized": false
+    },
+    "6316688": {
+      "title": "什么是优秀的 PE？——如何写好 Prompt Engineering",
+      "url": "https://www.woshipm.com/ai/6316688.html",
+      "category": "ai",
+      "crawled_at": "2026-06-22T02:02:07.287566",
+      "summarized": false
+    },
+    "6374323": {
+      "title": "高客单价产品如何经营好小红书闭环电商？！2026-04-10",
+      "url": "https://www.woshipm.com/share/6374323.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:22.745980",
+      "summarized": false
+    },
+    "6339734": {
+      "title": "未来设计“双核大脑”：设计思维感性与计算思维理性",
+      "url": "https://www.woshipm.com/share/6339734.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:25.519595",
+      "summarized": false
+    },
+    "6399283": {
+      "title": "一文看懂 OpenHarmony 跨平台框架生态：9 大仓库全解析",
+      "url": "https://www.woshipm.com/share/6399283.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:28.928218",
+      "summarized": false
+    },
+    "6417379": {
+      "title": "公众号流量崩塌：一个老作者的肺腑之言",
+      "url": "https://www.woshipm.com/share/6417379.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:41.691828",
+      "summarized": false
+    },
+    "6416727": {
+      "title": "别再瞎发小红书了！一文说清品牌、博主、普通人的正确姿势",
+      "url": "https://www.woshipm.com/share/6416727.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:44.800012",
+      "summarized": false
+    },
+    "6416537": {
+      "title": "人员合同管理：从模板匹配到批量续签的自动化方案",
+      "url": "https://www.woshipm.com/share/6416537.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:46.890756",
+      "summarized": false
+    },
+    "6416353": {
+      "title": "TikTok、YouTube、Reddit的流量资源位拆解：你的内容该放哪里？",
+      "url": "https://www.woshipm.com/share/6416353.html",
+      "category": "share",
+      "crawled_at": "2026-06-22T02:02:50.705864",
+      "summarized": false
+    },
+    "6416633": {
+      "title": "家装设计师如何用内容打造长期获客资产？",
+      "url": "https://www.woshipm.com/operate/6416633.html",
+      "category": "operate",
+      "crawled_at": "2026-06-22T02:03:24.338529",
+      "summarized": false
+    },
+    "6179922": {
+      "title": "让客户“惊喜”的服务：运用产品经理思维优化客户体验",
+      "url": "https://www.woshipm.com/operate/6179922.html",
+      "category": "operate",
+      "crawled_at": "2026-06-22T02:03:32.042367",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-21T02:03:25.562113",
+  "last_crawl": "2026-06-22T02:03:49.200864",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
