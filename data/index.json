@@ -6271,9 +6271,296 @@
       "category": "operate",
       "crawled_at": "2026-06-22T02:03:32.042367",
       "summarized": false
+    },
+    "6416798": {
+      "title": "HR系统产品设计：入转调离任务的自动化拆解与联动",
+      "url": "https://www.woshipm.com/pd/6416798.html",
+      "category": "pd",
+      "crawled_at": "2026-06-23T02:00:07.118888",
+      "summarized": false
+    },
+    "6161891": {
+      "title": "从 0 到 1 剖析 OTWB 中的 T 系统：TMS实战分享",
+      "url": "https://www.woshipm.com/pd/6161891.html",
+      "category": "pd",
+      "crawled_at": "2026-06-23T02:00:17.399216",
+      "summarized": false
+    },
+    "6206118": {
+      "title": "智能AI电子病历系统产品设计解析：从政策到落地的实战2025-04-19",
+      "url": "https://www.woshipm.com/pd/6206118.html",
+      "category": "pd",
+      "crawled_at": "2026-06-23T02:00:20.412444",
+      "summarized": false
+    },
+    "6137606": {
+      "title": "深度｜Perplexity CEO 最新洞察：AI 产品除订阅还有许多变现路径，API 成本每半年减少 50%，未来将专注增长",
+      "url": "https://www.woshipm.com/it/6137606.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:00:36.004541",
+      "summarized": false
+    },
+    "6344042": {
+      "title": "焦虑的县城中年人，等待被AI解救2026-02-24",
+      "url": "https://www.woshipm.com/it/6344042.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:00:40.123041",
+      "summarized": false
+    },
+    "6418209": {
+      "title": "满墙的谷子，空空的钱包：一个二次元少女的“厨力焦虑”",
+      "url": "https://www.woshipm.com/it/6418209.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:00:51.821677",
+      "summarized": false
+    },
+    "6417962": {
+      "title": "互联网大厂，告别“放贷时代”？",
+      "url": "https://www.woshipm.com/it/6417962.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:00:55.927350",
+      "summarized": false
+    },
+    "6417688": {
+      "title": "谷歌AI组织之困：为什么那么多产品却做不出一个好Agent？",
+      "url": "https://www.woshipm.com/it/6417688.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:00:59.364434",
+      "summarized": false
+    },
+    "6417685": {
+      "title": "“端午安康”这伪概念为什么这么火？从传播学视角的探讨",
+      "url": "https://www.woshipm.com/it/6417685.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:01:03.260163",
+      "summarized": false
+    },
+    "6417417": {
+      "title": "AI购物大溃败：第一批尝鲜者正在逃离",
+      "url": "https://www.woshipm.com/it/6417417.html",
+      "category": "it",
+      "crawled_at": "2026-06-23T02:01:06.452039",
+      "summarized": false
+    },
+    "6418166": {
+      "title": "支付宝“阿宝” vs 微信AI专属卡：两种AI支付路线，谁更接近终局？",
+      "url": "https://www.woshipm.com/ai/6418166.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:20.863682",
+      "summarized": false
+    },
+    "6417927": {
+      "title": "从Replika到HereAfter：海外数字永生产品已跑通三条路径，国内机会在哪？",
+      "url": "https://www.woshipm.com/ai/6417927.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:24.820361",
+      "summarized": false
+    },
+    "6413943": {
+      "title": "B端AI上线后无人问津？问题或许不在模型，而在产品设计",
+      "url": "https://www.woshipm.com/ai/6413943.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:29.002359",
+      "summarized": false
+    },
+    "6417848": {
+      "title": "七家诊所找了三个月，没找到「变美」的标签-深度学习和监督学习，各自能做什么",
+      "url": "https://www.woshipm.com/ai/6417848.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:31.153738",
+      "summarized": false
+    },
+    "6418019": {
+      "title": "保利威直播官方Skill支持WorkBuddy调用，对话式运营管理企业直播",
+      "url": "https://www.woshipm.com/ai/6418019.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:35.443749",
+      "summarized": false
+    },
+    "6418018": {
+      "title": "短剧玩家困在Seedance年框里：做剧赔钱，不做剧违约",
+      "url": "https://www.woshipm.com/ai/6418018.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:38.513197",
+      "summarized": false
+    },
+    "6417982": {
+      "title": "深入理解 Claude Code：从 CLAUDE.md 到 Hooks、Skills、Subagents..",
+      "url": "https://www.woshipm.com/ai/6417982.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:41.071561",
+      "summarized": false
+    },
+    "6417957": {
+      "title": "你来融资，a16z 却反过来推销你——这家风投把「让创始人变有趣」做成了一门生意",
+      "url": "https://www.woshipm.com/ai/6417957.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:44.066577",
+      "summarized": false
+    },
+    "6417956": {
+      "title": "剪映和即梦，争抢 Seedance",
+      "url": "https://www.woshipm.com/ai/6417956.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:47.302443",
+      "summarized": false
+    },
+    "6417951": {
+      "title": "微信撞上支付宝",
+      "url": "https://www.woshipm.com/ai/6417951.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:50.114504",
+      "summarized": false
+    },
+    "6417928": {
+      "title": "AI集体翻车！“我问了六个AI，都说西班牙稳赢”",
+      "url": "https://www.woshipm.com/ai/6417928.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:53.994707",
+      "summarized": false
+    },
+    "6417924": {
+      "title": "AI 助手分裂成两个物种，腾讯的Marvis 押对了",
+      "url": "https://www.woshipm.com/ai/6417924.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:01:57.140840",
+      "summarized": false
+    },
+    "6375966": {
+      "title": "AI的“原则”与“妥协”：我们如何设计它的道德决策边界？",
+      "url": "https://www.woshipm.com/ai/6375966.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:03.847395",
+      "summarized": false
+    },
+    "6343503": {
+      "title": "搓Skill还是Agent？不用纠结了！2026-02-23",
+      "url": "https://www.woshipm.com/ai/6343503.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:07.330558",
+      "summarized": false
+    },
+    "6360959": {
+      "title": "所有人都在夸AI打工有多爽，却没人提背后的Token“吞金兽”正重写全球财富规则",
+      "url": "https://www.woshipm.com/ai/6360959.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:11.091813",
+      "summarized": false
+    },
+    "6372069": {
+      "title": "AI日报：GPT-6代号”土豆”全面泄密，性能提升40%，Claude 4小时攻破安全系统",
+      "url": "https://www.woshipm.com/ai/6372069.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:15.160198",
+      "summarized": false
+    },
+    "6400524": {
+      "title": "做了一年客服型外呼 Agent，我发现旧的效果评估体系正在失效",
+      "url": "https://www.woshipm.com/ai/6400524.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:18.888045",
+      "summarized": false
+    },
+    "6331412": {
+      "title": "AI演员批量入场，短剧再变天",
+      "url": "https://www.woshipm.com/ai/6331412.html",
+      "category": "ai",
+      "crawled_at": "2026-06-23T02:02:22.703355",
+      "summarized": false
+    },
+    "6417166": {
+      "title": "一个证件号多个姓名？HR数据校验双层方案深度拆解",
+      "url": "https://www.woshipm.com/share/6417166.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:42.406248",
+      "summarized": false
+    },
+    "6417965": {
+      "title": "山姆的信任风波，暴露了它的底层挑战",
+      "url": "https://www.woshipm.com/share/6417965.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:44.628702",
+      "summarized": false
+    },
+    "6417960": {
+      "title": "到底是谁还在玩自然流…",
+      "url": "https://www.woshipm.com/share/6417960.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:47.078344",
+      "summarized": false
+    },
+    "6417959": {
+      "title": "做个能赚钱的个人IP？先想清楚这4件事！",
+      "url": "https://www.woshipm.com/share/6417959.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:49.411789",
+      "summarized": false
+    },
+    "6417948": {
+      "title": "数据产品的 AI 实践1：在不确定中寻找确定",
+      "url": "https://www.woshipm.com/share/6417948.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:52.898912",
+      "summarized": false
+    },
+    "6417903": {
+      "title": "Vol.22  SaaS产品架构设计之合同管理",
+      "url": "https://www.woshipm.com/share/6417903.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:02:57.138875",
+      "summarized": false
+    },
+    "6217778": {
+      "title": "DramaBox美国市场的制胜法宝，你可能没有听说过！",
+      "url": "https://www.woshipm.com/share/6217778.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:03:04.834046",
+      "summarized": false
+    },
+    "6322333": {
+      "title": "告别“算命式”投资：用两张图、三个数，看透任何生意的底牌",
+      "url": "https://www.woshipm.com/share/6322333.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:03:08.183808",
+      "summarized": false
+    },
+    "6404217": {
+      "title": "什么叫全球交易？",
+      "url": "https://www.woshipm.com/share/6404217.html",
+      "category": "share",
+      "crawled_at": "2026-06-23T02:03:12.205473",
+      "summarized": false
+    },
+    "6096718": {
+      "title": "入职新公司，产品经理如何快速熟悉业务&角色定位，度过试用期？",
+      "url": "https://www.woshipm.com/class/6096718.html",
+      "category": "class",
+      "crawled_at": "2026-06-23T02:03:44.221508",
+      "summarized": false
+    },
+    "6103763": {
+      "title": "为什么B端业务调研这么难？我秃了！2024-08-25",
+      "url": "https://www.woshipm.com/class/6103763.html",
+      "category": "class",
+      "crawled_at": "2026-06-23T02:03:48.401272",
+      "summarized": false
+    },
+    "6417325": {
+      "title": "语音房挖猎大R，为什么人来了流水还是起不来？",
+      "url": "https://www.woshipm.com/operate/6417325.html",
+      "category": "operate",
+      "crawled_at": "2026-06-23T02:03:59.493419",
+      "summarized": false
+    },
+    "6261254": {
+      "title": "积分体系：互联网应用增长的核心工具与设计逻辑（实操深化版）2025-08-28",
+      "url": "https://www.woshipm.com/operate/6261254.html",
+      "category": "operate",
+      "crawled_at": "2026-06-23T02:04:05.691870",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-22T02:03:49.200864",
+  "last_crawl": "2026-06-23T02:04:25.749433",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
