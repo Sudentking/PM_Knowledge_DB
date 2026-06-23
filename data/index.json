@@ -6558,9 +6558,268 @@
       "category": "operate",
       "crawled_at": "2026-06-23T02:04:05.691870",
       "summarized": false
+    },
+    "6229197": {
+      "title": "谈谈G端的AI应用方向——监管和风险防控",
+      "url": "https://www.woshipm.com/pd/6229197.html",
+      "category": "pd",
+      "crawled_at": "2026-06-24T02:00:06.638913",
+      "summarized": false
+    },
+    "6418571": {
+      "title": "当电力交易遇上 AI：一个传统行业产品经理的赋能思考",
+      "url": "https://www.woshipm.com/pd/6418571.html",
+      "category": "pd",
+      "crawled_at": "2026-06-24T02:00:13.821081",
+      "summarized": false
+    },
+    "6418416": {
+      "title": "给Skill加一道开工闸门：先暴露未知，再生成方案",
+      "url": "https://www.woshipm.com/pd/6418416.html",
+      "category": "pd",
+      "crawled_at": "2026-06-24T02:00:17.627669",
+      "summarized": false
+    },
+    "6418376": {
+      "title": "工资导入批次号自动拆分：6个维度如何实现零差错",
+      "url": "https://www.woshipm.com/pd/6418376.html",
+      "category": "pd",
+      "crawled_at": "2026-06-24T02:00:21.847168",
+      "summarized": false
+    },
+    "6418186": {
+      "title": "天涯重启30天：情怀退潮后，老牌论坛还能靠什么续命？",
+      "url": "https://www.woshipm.com/it/6418186.html",
+      "category": "it",
+      "crawled_at": "2026-06-24T02:00:41.435151",
+      "summarized": false
+    },
+    "6140239": {
+      "title": "木鸟途家美团开始卷价值",
+      "url": "https://www.woshipm.com/it/6140239.html",
+      "category": "it",
+      "crawled_at": "2026-06-24T02:00:48.226044",
+      "summarized": false
+    },
+    "6205391": {
+      "title": "美团内测鸭觅，能不能解决吃饭难题？2025-04-16",
+      "url": "https://www.woshipm.com/it/6205391.html",
+      "category": "it",
+      "crawled_at": "2026-06-24T02:00:51.977185",
+      "summarized": false
+    },
+    "6418988": {
+      "title": "谷歌一夜蒸发15000亿，只因失去了两个人",
+      "url": "https://www.woshipm.com/ai/6418988.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:09.391611",
+      "summarized": false
+    },
+    "6418961": {
+      "title": "AI医疗赛道挤满互联网大厂",
+      "url": "https://www.woshipm.com/ai/6418961.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:11.925983",
+      "summarized": false
+    },
+    "6418865": {
+      "title": "我是怎么使用 CodeX 把“仓库盘点脑图”，一步步做成可导入飞书的流程图的？",
+      "url": "https://www.woshipm.com/ai/6418865.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:14.275345",
+      "summarized": false
+    },
+    "6418868": {
+      "title": "我让 AI 读了 52 篇论文，这是我学到的关于 Loop 的三件事",
+      "url": "https://www.woshipm.com/ai/6418868.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:16.817501",
+      "summarized": false
+    },
+    "6418898": {
+      "title": "三年之内，这个岗位会彻底消失！不是因为AI，而是skill",
+      "url": "https://www.woshipm.com/ai/6418898.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:20.244825",
+      "summarized": false
+    },
+    "6418882": {
+      "title": "万物之中，希望至美：张小龙教你从人性角度看，什么样的 AI 产品能做成",
+      "url": "https://www.woshipm.com/ai/6418882.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:22.883557",
+      "summarized": false
+    },
+    "6418789": {
+      "title": "2026 年中大模型权力榜：别再问谁最强，先看谁适合你",
+      "url": "https://www.woshipm.com/ai/6418789.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:26.846738",
+      "summarized": false
+    },
+    "6418819": {
+      "title": "家装设计师服务产品化：摆脱低价内卷，让设计变成可定价的核心资产",
+      "url": "https://www.woshipm.com/ai/6418819.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:29.392476",
+      "summarized": false
+    },
+    "6418781": {
+      "title": "为了女儿的英语启蒙，我用 Vibe Coding 把 B 站动画变成了专属绘本",
+      "url": "https://www.woshipm.com/ai/6418781.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:32.005122",
+      "summarized": false
+    },
+    "6418785": {
+      "title": "支付宝造城，京东修路，微信把门：AI支付的三国杀",
+      "url": "https://www.woshipm.com/ai/6418785.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:35.104125",
+      "summarized": false
+    },
+    "6418714": {
+      "title": "AI 不是工具，是你需要学会管理的新同事",
+      "url": "https://www.woshipm.com/ai/6418714.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:38.591059",
+      "summarized": false
+    },
+    "6418442": {
+      "title": "AI产品经理的核心，不是技术也不是人性，而是概率判断力",
+      "url": "https://www.woshipm.com/ai/6418442.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:40.975940",
+      "summarized": false
+    },
+    "6259374": {
+      "title": "从Logo设计到梦境解析，一年吸金200万美元，”AI工具箱”的背后逻辑是什么？",
+      "url": "https://www.woshipm.com/ai/6259374.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:48.014489",
+      "summarized": false
+    },
+    "6088211": {
+      "title": "十问Chat：关于LUI，你知道多少？2024-07-24",
+      "url": "https://www.woshipm.com/ai/6088211.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:51.167952",
+      "summarized": false
+    },
+    "6353293": {
+      "title": "告别“人工智障”：从青铜到王者，我的AI提示词工程闭环拆解",
+      "url": "https://www.woshipm.com/ai/6353293.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:55.347949",
+      "summarized": false
+    },
+    "6366368": {
+      "title": "“我的老师是AI”：当训练师成为AI进化的旁观者",
+      "url": "https://www.woshipm.com/ai/6366368.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:01:58.241065",
+      "summarized": false
+    },
+    "6385790": {
+      "title": "场景不同，测评方法需要因地制宜：最新摸索的测评“四象限法则”分享",
+      "url": "https://www.woshipm.com/ai/6385790.html",
+      "category": "ai",
+      "crawled_at": "2026-06-24T02:02:01.283925",
+      "summarized": false
+    },
+    "6418431": {
+      "title": "遇到“情绪巨婴”，别争辩别忍让，把烂摊子变“高光局”",
+      "url": "https://www.woshipm.com/share/6418431.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:19.885379",
+      "summarized": false
+    },
+    "6418966": {
+      "title": "5元一小时的共享单车，打工人已经骑不起了？",
+      "url": "https://www.woshipm.com/share/6418966.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:24.226328",
+      "summarized": false
+    },
+    "6418934": {
+      "title": "谷歌AI摘要正在杀死网页？",
+      "url": "https://www.woshipm.com/share/6418934.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:27.170295",
+      "summarized": false
+    },
+    "6418931": {
+      "title": "“AI生成”标签只防君子、不防小人？",
+      "url": "https://www.woshipm.com/share/6418931.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:30.633998",
+      "summarized": false
+    },
+    "6418921": {
+      "title": "用AI问问题，结果跟你没关系？试试BTICOE模型（附案例）",
+      "url": "https://www.woshipm.com/share/6418921.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:33.976119",
+      "summarized": false
+    },
+    "6418891": {
+      "title": "黄仁勋最新访谈：AI是一场新工业革命",
+      "url": "https://www.woshipm.com/share/6418891.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:37.325833",
+      "summarized": false
+    },
+    "6418884": {
+      "title": "他用 MrBeast 的方式做科技发布——让任何公司刷屏的 21 条铁律",
+      "url": "https://www.woshipm.com/share/6418884.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:39.509315",
+      "summarized": false
+    },
+    "6418873": {
+      "title": "Codex + 飞书 CLI 一句话生成架构图、流程图、原型图，手搓画图可能真要过时了",
+      "url": "https://www.woshipm.com/share/6418873.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:41.722938",
+      "summarized": false
+    },
+    "6418866": {
+      "title": "豆包的下一步是拆分吗？",
+      "url": "https://www.woshipm.com/share/6418866.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:45.522877",
+      "summarized": false
+    },
+    "6404336": {
+      "title": "ArkTS 内存泄漏定位神器！带你揭秘鸿蒙最新 LocalHandle 泄漏检测工具",
+      "url": "https://www.woshipm.com/share/6404336.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:02:57.515031",
+      "summarized": false
+    },
+    "6375284": {
+      "title": "一文说透基金互金如何用情绪价值引导用户决策做转化",
+      "url": "https://www.woshipm.com/share/6375284.html",
+      "category": "share",
+      "crawled_at": "2026-06-24T02:03:00.077313",
+      "summarized": false
+    },
+    "6323578": {
+      "title": "01 认知篇：6年小红书运营经验，全写在这了",
+      "url": "https://www.woshipm.com/operate/6323578.html",
+      "category": "operate",
+      "crawled_at": "2026-06-24T02:03:36.788566",
+      "summarized": false
+    },
+    "6418252": {
+      "title": "金融AI的分布式开放实践：我们如何让能力长到别人家里去",
+      "url": "https://www.woshipm.com/operate/6418252.html",
+      "category": "operate",
+      "crawled_at": "2026-06-24T02:03:45.483406",
+      "summarized": false
     }
   },
-  "last_crawl": "2026-06-23T02:04:25.749433",
+  "last_crawl": "2026-06-24T02:04:05.124736",
   "last_summarize": null,
   "statistics": {
     "total_articles": 0,
